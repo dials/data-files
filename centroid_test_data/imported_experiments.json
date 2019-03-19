@@ -14,7 +14,7 @@
   "imageset": [
     {
       "__id__": "ImageSweep", 
-      "template": "/home/ekm22040/DIALS/data-files/centroid_test_data/centroid_####.cbf", 
+      "template": "centroid_####.cbf", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
