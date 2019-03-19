@@ -1,0 +1,645 @@
+[
+  {
+    "__id__": "DataBlock", 
+    "imageset": [
+      {
+        "__id__": "ImageSweep", 
+        "template": "l-cyst_01_#####.cbf", 
+        "mask": null, 
+        "gain": null, 
+        "pedestal": null, 
+        "dx": null, 
+        "dy": null, 
+        "beam": 0, 
+        "detector": 0, 
+        "goniometer": 0, 
+        "scan": 0, 
+        "params": {
+          "dynamic_shadowing": "Auto", 
+          "multi_panel": false
+        }
+      }, 
+      {
+        "__id__": "ImageSweep", 
+        "template": "l-cyst_02_#####.cbf", 
+        "mask": null, 
+        "gain": null, 
+        "pedestal": null, 
+        "dx": null, 
+        "dy": null, 
+        "beam": 0, 
+        "detector": 0, 
+        "goniometer": 1, 
+        "scan": 1, 
+        "params": {
+          "dynamic_shadowing": "Auto", 
+          "multi_panel": false
+        }
+      }, 
+      {
+        "__id__": "ImageSweep", 
+        "template": "l-cyst_03_#####.cbf", 
+        "mask": null, 
+        "gain": null, 
+        "pedestal": null, 
+        "dx": null, 
+        "dy": null, 
+        "beam": 0, 
+        "detector": 0, 
+        "goniometer": 2, 
+        "scan": 2, 
+        "params": {
+          "dynamic_shadowing": "Auto", 
+          "multi_panel": false
+        }
+      }, 
+      {
+        "__id__": "ImageSweep", 
+        "template": "l-cyst_04_#####.cbf", 
+        "mask": null, 
+        "gain": null, 
+        "pedestal": null, 
+        "dx": null, 
+        "dy": null, 
+        "beam": 0, 
+        "detector": 1, 
+        "goniometer": 3, 
+        "scan": 3, 
+        "params": {
+          "dynamic_shadowing": "Auto", 
+          "multi_panel": false
+        }
+      }
+    ], 
+    "beam": [
+      {
+        "direction": [
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "transmission": 1.0, 
+        "polarization_normal": [
+          0.0, 
+          1.0, 
+          0.0
+        ], 
+        "divergence": 0.0, 
+        "polarization_fraction": 0.999, 
+        "flux": 0.0, 
+        "sigma_divergence": 0.0, 
+        "wavelength": 0.6889
+      }
+    ], 
+    "detector": [
+      {
+        "hierarchy": {
+          "origin": [
+            0.0, 
+            0.0, 
+            0.0
+          ], 
+          "fast_axis": [
+            1.0, 
+            0.0, 
+            0.0
+          ], 
+          "name": "", 
+          "raw_image_offset": [
+            0, 
+            0
+          ], 
+          "slow_axis": [
+            0.0, 
+            1.0, 
+            0.0
+          ], 
+          "material": "", 
+          "mask": [], 
+          "thickness": 0.0, 
+          "mu": 0.0, 
+          "gain": 1.0, 
+          "trusted_range": [
+            0.0, 
+            0.0
+          ], 
+          "image_size": [
+            0, 
+            0
+          ], 
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }, 
+          "pedestal": 0.0, 
+          "identifier": "", 
+          "type": "", 
+          "children": [
+            {
+              "panel": 0
+            }
+          ], 
+          "pixel_size": [
+            0.0, 
+            0.0
+          ]
+        }, 
+        "panels": [
+          {
+            "origin": [
+              -148.78, 
+              -28.738149699174144, 
+              -201.3440646055102
+            ], 
+            "fast_axis": [
+              0.0, 
+              0.8660254037843935, 
+              0.5000000000000784
+            ], 
+            "name": "Panel", 
+            "raw_image_offset": [
+              0, 
+              0
+            ], 
+            "slow_axis": [
+              1.0, 
+              0.0, 
+              0.0
+            ], 
+            "material": "Si", 
+            "mask": [
+              [
+                487, 
+                0, 
+                494, 
+                1679
+              ], 
+              [
+                981, 
+                0, 
+                988, 
+                1679
+              ], 
+              [
+                0, 
+                195, 
+                1475, 
+                212
+              ], 
+              [
+                0, 
+                407, 
+                1475, 
+                424
+              ], 
+              [
+                0, 
+                619, 
+                1475, 
+                636
+              ], 
+              [
+                0, 
+                831, 
+                1475, 
+                848
+              ], 
+              [
+                0, 
+                1043, 
+                1475, 
+                1060
+              ], 
+              [
+                0, 
+                1255, 
+                1475, 
+                1272
+              ], 
+              [
+                0, 
+                1467, 
+                1475, 
+                1484
+              ]
+            ], 
+            "thickness": 0.32, 
+            "mu": 1.4153520955616248, 
+            "gain": 1.0, 
+            "trusted_range": [
+              -1.0, 
+              388705.0
+            ], 
+            "image_size": [
+              1475, 
+              1679
+            ], 
+            "px_mm_strategy": {
+              "type": "ParallaxCorrectedPxMmStrategy"
+            }, 
+            "pedestal": 0.0, 
+            "identifier": "PILATUS 2M, S/N 24-0107 Diamond", 
+            "type": "SENSOR_PAD", 
+            "pixel_size": [
+              0.172, 
+              0.172
+            ]
+          }
+        ]
+      }, 
+      {
+        "hierarchy": {
+          "origin": [
+            0.0, 
+            0.0, 
+            0.0
+          ], 
+          "fast_axis": [
+            1.0, 
+            0.0, 
+            0.0
+          ], 
+          "name": "", 
+          "raw_image_offset": [
+            0, 
+            0
+          ], 
+          "slow_axis": [
+            0.0, 
+            1.0, 
+            0.0
+          ], 
+          "material": "", 
+          "mask": [], 
+          "thickness": 0.0, 
+          "mu": 0.0, 
+          "gain": 1.0, 
+          "trusted_range": [
+            0.0, 
+            0.0
+          ], 
+          "image_size": [
+            0, 
+            0
+          ], 
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }, 
+          "pedestal": 0.0, 
+          "identifier": "", 
+          "type": "", 
+          "children": [
+            {
+              "panel": 0
+            }
+          ], 
+          "pixel_size": [
+            0.0, 
+            0.0
+          ]
+        }, 
+        "panels": [
+          {
+            "origin": [
+              -148.78, 
+              -125.56, 
+              -160.0
+            ], 
+            "fast_axis": [
+              0.0, 
+              1.0, 
+              0.0
+            ], 
+            "name": "Panel", 
+            "raw_image_offset": [
+              0, 
+              0
+            ], 
+            "slow_axis": [
+              1.0, 
+              0.0, 
+              0.0
+            ], 
+            "material": "Si", 
+            "mask": [
+              [
+                487, 
+                0, 
+                494, 
+                1679
+              ], 
+              [
+                981, 
+                0, 
+                988, 
+                1679
+              ], 
+              [
+                0, 
+                195, 
+                1475, 
+                212
+              ], 
+              [
+                0, 
+                407, 
+                1475, 
+                424
+              ], 
+              [
+                0, 
+                619, 
+                1475, 
+                636
+              ], 
+              [
+                0, 
+                831, 
+                1475, 
+                848
+              ], 
+              [
+                0, 
+                1043, 
+                1475, 
+                1060
+              ], 
+              [
+                0, 
+                1255, 
+                1475, 
+                1272
+              ], 
+              [
+                0, 
+                1467, 
+                1475, 
+                1484
+              ]
+            ], 
+            "thickness": 0.32, 
+            "mu": 1.4153520955616248, 
+            "gain": 1.0, 
+            "trusted_range": [
+              -1.0, 
+              388705.0
+            ], 
+            "image_size": [
+              1475, 
+              1679
+            ], 
+            "px_mm_strategy": {
+              "type": "ParallaxCorrectedPxMmStrategy"
+            }, 
+            "pedestal": 0.0, 
+            "identifier": "PILATUS 2M, S/N 24-0107 Diamond", 
+            "type": "SENSOR_PAD", 
+            "pixel_size": [
+              0.172, 
+              0.172
+            ]
+          }
+        ]
+      }
+    ], 
+    "goniometer": [
+      {
+        "axes": [
+          [
+            0.5774, 
+            -0.8165, 
+            0.0
+          ], 
+          [
+            1.0, 
+            0.0, 
+            0.0
+          ]
+        ], 
+        "scan_axis": 1, 
+        "names": [
+          "GON_PHI", 
+          "GON_OMEGA"
+        ], 
+        "angles": [
+          0.0, 
+          -145.0
+        ]
+      }, 
+      {
+        "axes": [
+          [
+            0.5774, 
+            -0.8165, 
+            0.0
+          ], 
+          [
+            1.0, 
+            0.0, 
+            0.0
+          ]
+        ], 
+        "scan_axis": 1, 
+        "names": [
+          "GON_PHI", 
+          "GON_OMEGA"
+        ], 
+        "angles": [
+          120.0, 
+          -145.0
+        ]
+      }, 
+      {
+        "axes": [
+          [
+            0.5774, 
+            -0.8165, 
+            0.0
+          ], 
+          [
+            1.0, 
+            0.0, 
+            0.0
+          ]
+        ], 
+        "scan_axis": 1, 
+        "names": [
+          "GON_PHI", 
+          "GON_OMEGA"
+        ], 
+        "angles": [
+          240.0, 
+          -145.0
+        ]
+      }, 
+      {
+        "axes": [
+          [
+            0.5774, 
+            -0.8165, 
+            0.0
+          ], 
+          [
+            1.0, 
+            0.0, 
+            0.0
+          ]
+        ], 
+        "scan_axis": 0, 
+        "names": [
+          "GON_PHI", 
+          "GON_OMEGA"
+        ], 
+        "angles": [
+          0.0, 
+          0.0
+        ]
+      }
+    ], 
+    "scan": [
+      {
+        "exposure_time": [
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          -145.0, 
+          0.1
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          1457168505.6129858, 
+          1457168505.7130053, 
+          1457168505.8129847, 
+          1457168505.9130044, 
+          1457168506.0129836, 
+          1457168506.1130033, 
+          1457168506.2129827, 
+          1457168506.313002, 
+          1457168506.4130216, 
+          1457168506.513001
+        ], 
+        "image_range": [
+          1, 
+          10
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          -145.0, 
+          0.1
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          1457168697.09, 
+          1457168697.1900196, 
+          1457168697.2899988, 
+          1457168697.3899782, 
+          1457168697.4899979, 
+          1457168697.5900173, 
+          1457168697.6899967, 
+          1457168697.7899761, 
+          1457168697.8899956, 
+          1457168697.990015
+        ], 
+        "image_range": [
+          1, 
+          10
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          -145.0, 
+          0.1
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          1457168889.1330137, 
+          1457168889.2329931, 
+          1457168889.3330126, 
+          1457168889.432992, 
+          1457168889.5329714, 
+          1457168889.6329908, 
+          1457168889.7330105, 
+          1457168889.83299, 
+          1457168889.9330094, 
+          1457168890.0329888
+        ], 
+        "image_range": [
+          1, 
+          10
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964, 
+          0.0964
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          0.0, 
+          0.1
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          1457168282.0619955, 
+          1457168282.161975, 
+          1457168282.2619944, 
+          1457168282.362014, 
+          1457168282.4619935, 
+          1457168282.5619726, 
+          1457168282.6619923, 
+          1457168282.762012, 
+          1457168282.8619912, 
+          1457168282.9619706
+        ], 
+        "image_range": [
+          1, 
+          10
+        ]
+      }
+    ]
+  }
+]
