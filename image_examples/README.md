@@ -15,3 +15,16 @@ SACLA-MPCCD-Phase3-21528-5images.h5
 - Courtesy of Takanori Nakane (2019)
 - See also: https://github.com/cctbx/dxtbx/issues/70#issuecomment-520026981
 - For testing FormatHDF5SaclaMPCCD
+
+simtbx_FormatSMVJHSim_001.img
+- A simulated lysozyme diffraction image with electron diffraction geometry
+- Created with dev.dials.sim_ED_stills (from dials_scratch)
+- For testing FormatSMVJHSim and electron diffraction indexing
+
+TIMEPIX_SU_512-stdgoni_0001.img
+- Courtesy of Viktor Bengtsson (2019)
+- For testing FormatSMVTimePix_SU_512x512
+
+TIMEPIX_SU_516-stdgoni_0001.img
+- Courtesy of Viktor Bengtsson (2019)
+- For testing FormatSMVTimePix_SU_516x516
