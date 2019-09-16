@@ -17,8 +17,7 @@
   "imageset": [
     {
       "__id__": "ImageSweep", 
-      "template": "/Users/rjgildea/software/cctbx/build/dials_data/x4wide/X4_wide_M1S4_2_####.cbf", 
-      "mask": "/Users/rjgildea/tmp/311/DEFAULT/NATIVE/SWEEP1/index/2_hot_mask_0.pickle", 
+      "template": "x4wide/X4_wide_M1S4_2_####.cbf", 
       "gain": "", 
       "pedestal": "", 
       "dx": "", 
