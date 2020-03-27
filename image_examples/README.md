@@ -38,3 +38,5 @@ Dectris_Nexus_data_000001.h5
   * Equivalent such data sets for the other 35 detector modules have been made hard links to those of the the first detector module.
   * The global `flatfield` and `pixel_mask` have also been chunked to enable compression.
   * To improve compressibility, the detector module `flatfield` and global `flatfield` values have all been set to `1`, the detector module `pixel_mask` and global `pixel_mask` values have all been set to `0` and the detector module `trimbit` values have all been set to `16`.
+  * Dectris uses 32-bit unsigned integers to record the global and module `pixel_mask` values.  Since only the five least significant bits are meaningful, the other 27 bits being undefined, a smaller data type would suffice.  Accordingly, the data type has been changed to 8-bit unsigned integers.
+
