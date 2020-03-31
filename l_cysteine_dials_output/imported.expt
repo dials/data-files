@@ -41,7 +41,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence", 
-      "template": "/Users/graeme/data/i19-1-l-cys/l-cyst_01_#####.cbf.gz", 
+      "template": "l-cyst_01_#####.cbf.gz", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -54,7 +54,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "/Users/graeme/data/i19-1-l-cys/l-cyst_02_#####.cbf.gz", 
+      "template": "l-cyst_02_#####.cbf.gz", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -67,7 +67,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "/Users/graeme/data/i19-1-l-cys/l-cyst_03_#####.cbf.gz", 
+      "template": "l-cyst_03_#####.cbf.gz", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -80,7 +80,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "/Users/graeme/data/i19-1-l-cys/l-cyst_04_#####.cbf.gz", 
+      "template": "l-cyst_04_#####.cbf.gz", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
