@@ -45,7 +45,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence", 
-      "template": "l-cyst_01_#####.cbf.gz", 
+      "template": "l-cyst_01_#####.cbf", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -58,7 +58,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "l-cyst_02_#####.cbf.gz", 
+      "template": "l-cyst_02_#####.cbf", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -71,7 +71,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "l-cyst_03_#####.cbf.gz", 
+      "template": "l-cyst_03_#####.cbf", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
@@ -84,7 +84,7 @@
     }, 
     {
       "__id__": "ImageSequence", 
-      "template": "l-cyst_04_#####.cbf.gz", 
+      "template": "l-cyst_04_#####.cbf", 
       "mask": "", 
       "gain": "", 
       "pedestal": "", 
