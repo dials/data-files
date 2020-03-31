@@ -28,3 +28,14 @@ TIMEPIX_SU_512-stdgoni_0001.img
 TIMEPIX_SU_516-stdgoni_0001.img
 - Courtesy of Viktor Bengtsson (2019)
 - For testing FormatSMVTimePix_SU_516x516
+
+dectris_eiger_master.h5\
+dectris_eiger_data_000001.h5
+- Semi-synthetic Dectris standard Nexus format single image data from an Eiger 9M detector.
+- Created from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1221344.svg)](https://doi.org/10.5281/zenodo.1221344), modified to contain only the first image from those data.
+- Additionally, various detector metadata have been spoofed to reduce the size of the master file:
+  * The first `countrate_correction_lookup_table`, `countrate_correction_table`, `flatfield`, `pixel_mask` and `trimbit` data sets of each `detectorModule` have been chunked in order to enable GZip compression.
+  * Equivalent such data sets for the other 35 detector modules have been made hard links to those of the the first detector module.
+  * The global `flatfield` and `pixel_mask` have also been chunked to enable compression.
+  * To improve compressibility, the detector module `flatfield` and global `flatfield` values have all been set to `1`, the detector module `pixel_mask` and global `pixel_mask` values have all been set to `0` and the detector module `trimbit` values have all been set to `16`.
+  * Dectris uses 32-bit unsigned integers to record the global and module `pixel_mask` values.  Since only the five least significant bits are meaningful, the other 27 bits being undefined, a smaller data type would suffice.  Accordingly, the data type has been changed to 8-bit unsigned integers.
