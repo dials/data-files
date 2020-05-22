@@ -16,8 +16,8 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/home/ekm22040/Data/dials_small_molecule_tutorial/data/l-cyst_02_#####.cbf",
-      "mask": "/home/ekm22040/Data/dials_small_molecule_tutorial/xia2/DEFAULT/NATIVE/SWEEP2/index/13_pixels.mask",
+      "template": "l-cyst_02_#####.cbf",
+      "mask": "",
       "gain": "",
       "pedestal": "",
       "dx": "",
