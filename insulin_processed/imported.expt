@@ -1,0 +1,292 @@
+{
+  "__id__": "ExperimentList",
+  "experiment": [
+    {
+      "__id__": "Experiment",
+      "identifier": "a9e32626-d679-403f-8e79-77bb0488d6f7",
+      "beam": 0,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 0,
+      "imageset": 0
+    }
+  ],
+  "imageset": [
+    {
+      "__id__": "ImageSequence",
+      "template": "/Users/rjgildea/software/cctbx_py3/build/dials_data/insulin/insulin_1_###.img",
+      "mask": "",
+      "gain": "",
+      "pedestal": "",
+      "dx": "",
+      "dy": "",
+      "params": {
+        "dynamic_shadowing": "Auto",
+        "multi_panel": false
+      }
+    }
+  ],
+  "beam": [
+    {
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "wavelength": 0.979,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    }
+  ],
+  "detector": [
+    {
+      "panels": [
+        {
+          "name": "Panel",
+          "type": "SENSOR_CCD",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -94.7,
+            94.0,
+            -160.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            2304,
+            2304
+          ],
+          "pixel_size": [
+            0.0816,
+            0.0816
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.25,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "slow_axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "origin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          }
+        ]
+      }
+    }
+  ],
+  "goniometer": [
+    {
+      "rotation_axis": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "fixed_rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "setting_rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "scan": [
+    {
+      "image_range": [
+        1,
+        45
+      ],
+      "batch_offset": 0,
+      "oscillation": [
+        0.0,
+        1.0
+      ],
+      "exposure_time": [
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0
+      ],
+      "epochs": [
+        1157032366.0,
+        1157032411.0,
+        1157032454.0,
+        1157032499.0,
+        1157032543.0,
+        1157032587.0,
+        1157032630.0,
+        1157032674.0,
+        1157032717.0,
+        1157032761.0,
+        1157032805.0,
+        1157032849.0,
+        1157032893.0,
+        1157032937.0,
+        1157032981.0,
+        1157033024.0,
+        1157033067.0,
+        1157033110.0,
+        1157033153.0,
+        1157033197.0,
+        1157033240.0,
+        1157033283.0,
+        1157033327.0,
+        1157033371.0,
+        1157033415.0,
+        1157033459.0,
+        1157033504.0,
+        1157033547.0,
+        1157033590.0,
+        1157033635.0,
+        1157033679.0,
+        1157033723.0,
+        1157033767.0,
+        1157033811.0,
+        1157033855.0,
+        1157033899.0,
+        1157033942.0,
+        1157033985.0,
+        1157034030.0,
+        1157034074.0,
+        1157034117.0,
+        1157034161.0,
+        1157034205.0,
+        1157034249.0,
+        1157034293.0
+      ],
+      "valid_image_ranges": {}
+    }
+  ],
+  "crystal": [],
+  "profile": [],
+  "scaling_model": []
+}
