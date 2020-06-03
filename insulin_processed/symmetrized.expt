@@ -16,7 +16,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/Users/rjgildea/software/cctbx_py3/build/dials_data/insulin/insulin_1_###.img",
+      "template": "insulin_1_###.img",
       "mask": "",
       "gain": "",
       "pedestal": "",
