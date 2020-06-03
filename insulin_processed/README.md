@@ -1,5 +1,6 @@
 dials_data insulin data set processed with DIALS:
 
+```
 $ dials.version
 DIALS 3.dev.37-g9c9d0802d
 Python 3.6.10
@@ -11,3 +12,4 @@ $ dials.refine indexed.{expt,refl}
 $ dials.integrate refined.{expt,refl} nproc=8
 $ dials.symmetry integrated.{expt,refl}
 $ dials.scale symmetrized.{expt,refl}
+```
