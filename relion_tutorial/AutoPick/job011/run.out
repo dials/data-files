@@ -1,0 +1,51 @@
+RELION version: 3.1-devel-commit-6bcdde (debug-build) 
+Precision: BASE=double, CUDA-ACC=single 
+
+ === RELION MPI setup ===
+ + Number of MPI processes             = 4
+ + Master  (0) runs on host            = fmg27.lmb.internal
+ + Slave     1 runs on host            = fmg27.lmb.internal
+ + Slave     2 runs on host            = fmg27.lmb.internal
+ + Slave     3 runs on host            = fmg27.lmb.internal
+ =================
+ + Run autopicking on the following micrographs: 
+    * MotionCorr/job002/Movies/20170629_00021_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00022_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00023_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00024_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00025_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00026_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00027_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00028_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00029_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00030_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00031_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00035_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00036_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00037_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00039_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00040_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00042_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00043_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00044_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00045_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00046_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00047_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00048_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00049_frameImage.mrc
+ + Automatically set the background diameter to 223.02 Angstrom
+ + You can override this by providing --particle_diameter (in Angstroms)
+ + Will use micrographs scaled to 340 pixels as requested. The largest prime factor in FFTs is 19
+ Initialising FFTs for the references and masks ... 
+000/??? sec ~~(,_,">                                                          [oo]   7/  28 sec ...............~~(,_,">  15/  30 sec ..............................~~(,_,">  22/  29 sec .............................................~~(,_,">  29/  29 sec ............................................................~~(,_,">
+ + Using GPU device: 1 on MPI node: 1
+ + Using GPU device: 0 on MPI node: 0
+ + Using GPU device: 2 on MPI node: 2
+ + Using GPU device: 3 on MPI node: 3
+ Autopicking ...
+000/??? sec ~~(,_,">                                                          [oo]   6/  36 sec ..........~~(,_,">   8/  24 sec ...................~~(,_,">  10/  20 sec ..............................~~(,_,">  12/  18 sec .......................................~~(,_,">  14/  16 sec ..................................................~~(,_,">  17/  17 sec ............................................................~~(,_,">
+ Generating logfile.pdf ... 
+000/??? sec ~~(,_,">                                                          [oo]   0/   0 sec ............................................................~~(,_,">
+ Total number of particles from 24 micrographs is 9482
+ i.e. on average there were 395 particles per micrograph
+ Done! Written: AutoPick/job011/logfile.pdf 

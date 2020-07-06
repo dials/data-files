@@ -1,0 +1,6 @@
+
+ ++++ Executing new job on Wed Jul 24 13:48:50 2019
+ ++++ with the following command(s): 
+`which relion_manualpick` --i CtfFind/job003/micrographs_ctf.star --odir ManualPick/job004/ --pickname manualpick --allow_save   --fast_save --selection ManualPick/job004/micrographs_selected.star --scale 0.25 --sigma_contrast 3 --black 0 --white 0 --lowpass 20 --angpix 0.885 --ctf_scale 1 --particle_diameter 200  --pipeline_control ManualPick/job004/
+echo CtfFind/job003/micrographs_ctf.star > ManualPick/job004/coords_suffix_manualpick.star
+ ++++ 

@@ -1,0 +1,5 @@
+
+ ++++ Executing new job on Thu Aug  1 12:59:38 2019
+ ++++ with the following command(s): 
+`which relion_postprocess` --mask MaskCreate/job020/mask.mrc --i Refine3D/job029/run_half1_class001_unfil.mrc --o PostProcess/job030/postprocess  --angpix 1.244 --auto_bfac  --autob_lowres 10  --pipeline_control PostProcess/job030/
+ ++++ 

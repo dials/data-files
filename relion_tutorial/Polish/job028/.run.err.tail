@@ -1,0 +1,3 @@
+WARNING: You did not specify --angpix_ref. The pixel size in the image header of Refine3D/job025/run_half1_class001_unfil.mrc, 1.244 A/px, is used.
+WARNING: You did not specify --angpix_ref. The pixel size in the image header of Refine3D/job025/run_half1_class001_unfil.mrc, 1.244 A/px, is used.
+FIXME: TODO: currently FrameRecombiner::isCtfMultiplied assumes that all optics groups are processed.

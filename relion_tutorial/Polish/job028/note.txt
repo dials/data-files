@@ -1,0 +1,5 @@
+
+ ++++ Executing new job on Thu Aug  1 09:53:12 2019
+ ++++ with the following command(s): 
+`which relion_motion_refine_mpi` --i Refine3D/job025/run_data.star --f PostProcess/job026/postprocess.star --corr_mic MotionCorr/job002/corrected_micrographs.star --first_frame 1 --last_frame -1 --o Polish/job028/ --params_file Polish/job027/opt_params_all_groups.txt --combine_frames --bfac_minfreq 20 --bfac_maxfreq -1 --j 16  --pipeline_control Polish/job028/
+ ++++ 

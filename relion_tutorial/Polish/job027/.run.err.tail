@@ -1,0 +1,3 @@
+WARNING: pixel size (--angpix) is greater than the AutoPick pixel size (--coords_angpix)
+WARNING: pixel size (--angpix) is greater than the movie pixel size (--movie_angpix)
+WARNING: You did not specify --angpix_ref. The pixel size in the image header of Refine3D/job025/run_half1_class001_unfil.mrc, 1.244 A/px, is used.

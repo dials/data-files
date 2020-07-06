@@ -1,0 +1,5 @@
+
+ ++++ Executing new job on Wed Jul 31 13:02:14 2019
+ ++++ with the following command(s): 
+`which relion_ctf_refine` --i CtfRefine/job022/particles_ctf_refine.star --f PostProcess/job021/postprocess.star --o CtfRefine/job023/ --fit_aniso --kmin_mag 30 --j 12  --pipeline_control CtfRefine/job023/
+ ++++ 

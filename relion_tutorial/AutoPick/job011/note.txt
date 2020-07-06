@@ -1,0 +1,6 @@
+
+ ++++ Executing new job on Fri Jul 26 12:28:26 2019
+ ++++ with the following command(s): 
+`which relion_autopick_mpi` --i CtfFind/job003/micrographs_ctf.star --odir AutoPick/job011/ --pickname autopick --ref Select/job009/class_averages.star --invert  --ctf  --ang 5 --shrink 0 --lowpass 20 --angpix_ref 3.54 --threshold 0 --min_distance 100 --max_stddev_noise -1 --gpu "0:1:2:3"  --pipeline_control AutoPick/job011/
+echo CtfFind/job003/micrographs_ctf.star > AutoPick/job011/coords_suffix_autopick.star
+ ++++ 

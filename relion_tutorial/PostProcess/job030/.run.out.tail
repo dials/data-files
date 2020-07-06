@@ -1,0 +1,6 @@
+  + filter frequency:              2.81827
+== Writing output files ...
+  + Processed map:                 PostProcess/job030/postprocess.mrc
+  + Processed masked map:          PostProcess/job030/postprocess_masked.mrc
+  + Metadata file:                 PostProcess/job030/postprocess.star
+  + FINAL RESOLUTION:              2.81827

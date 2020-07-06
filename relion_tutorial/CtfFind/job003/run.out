@@ -1,0 +1,40 @@
+ === RELION MPI setup ===
+ + Number of MPI processes             = 6
+ + Master  (0) runs on host            = max.lmb.internal
+ + Slave     1 runs on host            = max.lmb.internal
+ + Slave     2 runs on host            = max.lmb.internal
+ + Slave     3 runs on host            = max.lmb.internal
+ + Slave     4 runs on host            = max.lmb.internal
+ + Slave     5 runs on host            = max.lmb.internal
+ =================
+ Using CTFFIND executable in: /public/EM/ctffind/ctffind.exe
+ to estimate CTF parameters for the following micrographs: 
+  * MotionCorr/job002/Movies/20170629_00021_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00022_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00023_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00024_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00025_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00026_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00027_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00028_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00029_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00030_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00031_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00035_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00036_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00037_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00039_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00040_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00042_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00043_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00044_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00045_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00046_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00047_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00048_frameImage.mrc
+  * MotionCorr/job002/Movies/20170629_00049_frameImage.mrc
+ Estimating CTF parameters using Niko Grigorieff's CTFFIND ...
+000/??? sec ~~(,_,">                                                          [oo]   4/  16 sec ...............~~(,_,">   6/  12 sec ..............................~~(,_,">   8/  10 sec .............................................~~(,_,">   8/   8 sec ............................................................~~(,_,">
+ Generating logfile.pdf ... 
+000/??? sec ~~(,_,">                                                          [oo]   0/   0 sec ............................................................~~(,_,">
+ Done! Written out: CtfFind/job003/micrographs_ctf.star and CtfFind/job003/logfile.pdf

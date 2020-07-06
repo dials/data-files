@@ -1,0 +1,38 @@
+job_type == 18
+is_continue == false
+Ignore CTFs until first peak? == No
+Combine iterations through disc? == No
+Do CTF-correction? == Yes
+Skip padding? == No
+Use parallel disc I/O? == Yes
+Pre-read all particles into RAM? == Yes
+Submit to queue? == No
+Flatten and enforce non-negative solvent? == Yes
+Continue from here:  == 
+Input images STAR file: == Select/job014/particles.star
+Which GPUs to use: == 4:5:6:7
+Minimum dedicated cores per node: == 24
+Number of classes: == 1
+Number of MPI procs: == 5
+Number of pooled particles: == 30
+Number of threads: == 6
+Offset search range (pix): == 6
+Offset search step (pix): == 2
+Additional arguments: == 
+Mask diameter (A): == 200
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi
+Initial angular sampling: == 15 degrees
+Copy particles to scratch directory: == 
+Number of final iterations: == 25
+Final resolution (A): == 15
+Final mini-batch size: == 500
+Number of in-between iterations: == 100
+Number of initial iterations: == 25
+Initial resolution (A): == 35
+Initial mini-batch size: == 100
+Increased noise variance half-life: == -1
+Write-out frequency (iter): == 10
+Symmetry: == C1
+Use GPU acceleration? == Yes

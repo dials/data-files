@@ -1,0 +1,6 @@
+ Auto-refine: Refinement has converged, stopping now... 
+ Auto-refine: + Final reconstruction from all particles is saved as: Refine3D/job019/run_class001.mrc
+ Auto-refine: + Final model parameters are stored in: Refine3D/job019/run_model.star
+ Auto-refine: + Final data parameters are stored in: Refine3D/job019/run_data.star
+ Auto-refine: + Final resolution (without masking) is: 3.93165
+ Auto-refine: + But you may want to run relion_postprocess to mask the unfil.mrc maps and calculate a higher resolution FSC
