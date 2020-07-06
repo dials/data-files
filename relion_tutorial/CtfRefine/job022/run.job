@@ -1,0 +1,22 @@
+job_type == 21
+is_continue == false
+Estimate 4th order aberrations? == Yes
+Estimate (anisotropic) magnification? == No
+Fit astigmatism? == No
+Fit B-factor? == No
+Perform CTF parameter fitting? == No
+Fit defocus? == No
+Fit phase-shift? == No
+Submit to queue? == No
+Estimate beamtilt? == Yes
+Also estimate trefoil? == Yes
+Particles (from Refine3D): == Refine3D/job019/run_data.star
+Postprocess STAR file: == PostProcess/job021/postprocess.star
+Minimum dedicated cores per node: == 24
+Minimum resolution for fits (A):  == 30
+Number of MPI procs: == 1
+Number of threads: == 12
+Additional arguments: == 
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi

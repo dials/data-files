@@ -1,0 +1,2 @@
+WARNING: The pixel size (--angpix) was not specified.
+         The value in the input image header (= 1.244) is used instead.

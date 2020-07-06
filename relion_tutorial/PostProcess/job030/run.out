@@ -1,0 +1,23 @@
+ + --mtf_angpix was not provided, assuming pixel size in raw micrographs is the same as in particles...
+== Reading input half-reconstructions: 
+  + half1-map:                     Refine3D/job029/run_half1_class001_unfil.mrc
+  + half2-map:                     Refine3D/job029/run_half2_class001_unfil.mrc
+== Using a user-provided mask ... 
+  + input mask:                    MaskCreate/job020/mask.mrc
+== Masking input maps ...
+  + randomize phases beyond:       9.65042 Angstroms
+== Applying sqrt(2*FSC/(FSC+1)) weighting (as in Rosenthal & Henderson, 2003) ...
+== Fitting straight line through Guinier plot to find B-factor ...
+  + fit from resolution:           10
+  + fit until resolution:          0
+  + slope of fit:                  -0.388824
+  + intercept of fit:              -12.6811
+  + correlation of fit:            0.00668528
+  + apply b-factor of:             -1.5553
+== Low-pass filtering final map ... 
+  + filter frequency:              2.81827
+== Writing output files ...
+  + Processed map:                 PostProcess/job030/postprocess.mrc
+  + Processed masked map:          PostProcess/job030/postprocess_masked.mrc
+  + Metadata file:                 PostProcess/job030/postprocess.star
+  + FINAL RESOLUTION:              2.81827

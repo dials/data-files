@@ -1,0 +1,26 @@
+ + Run autopicking on the following micrographs: 
+    * MotionCorr/job002/Movies/20170629_00021_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00022_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00023_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00024_frameImage.mrc
+    * MotionCorr/job002/Movies/20170629_00025_frameImage.mrc
+ + Will use following diameters for Laplacian-of-Gaussian filter: 
+   * 30 (too low)
+   * 38 (too low)
+   * 50 (too low)
+   * 75 (too low)
+   * 150 (ok)
+   * 165 (ok)
+   * 180 (ok)
+   * 360 (too high)
+   * 540 (too high)
+   * 720 (too high)
+   * 900 (too high)
+ + Will use micrographs scaled to 340 pixels as requested. The largest prime factor in FFTs is 19
+ Autopicking ...
+000/??? sec ~~(,_,">                                                          [oo]   3/  15 sec ...........~~(,_,">   6/  15 sec .......................~~(,_,">   8/  13 sec ....................................~~(,_,">  10/  12 sec ................................................~~(,_,">  13/  13 sec ............................................................~~(,_,">
+ Generating logfile.pdf ... 
+000/??? sec ~~(,_,">                                                          [oo]   0/   0 sec ............................................................~~(,_,">
+ Total number of particles from 5 micrographs is 1158
+ i.e. on average there were 232 particles per micrograph
+ Done! Written: AutoPick/job006/logfile.pdf 

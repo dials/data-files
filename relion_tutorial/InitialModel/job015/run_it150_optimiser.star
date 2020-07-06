@@ -1,0 +1,91 @@
+# RELION optimiser; version 3.1-devel-commit-6bcdde
+# --o InitialModel/job015/run --sgd_ini_iter 25 --sgd_inbetween_iter 100 --sgd_fin_iter 25 --sgd_write_iter 10 --sgd_ini_resol 35 --sgd_fin_resol 15 --sgd_ini_subset 100 --sgd_fin_subset 500 --sgd --denovo_3dref --i Select/job014/particles.star --ctf --K 1 --sym C1 --flatten_solvent --zero_mask --dont_combine_weights_via_disc --preread_images --pool 30 --pad 2 --particle_diameter 200 --oversampling 1 --healpix_order 1 --offset_range 6 --offset_step 4 --j 6 --gpu 4:5:6:7 --pipeline_control InitialModel/job015/ 
+
+# version 30001
+
+data_optimiser_general
+
+_rlnOutputRootName                                    InitialModel/job015/run
+_rlnModelStarFile                                     InitialModel/job015/run_it150_model.star
+_rlnExperimentalDataStarFile                          InitialModel/job015/run_it150_data.star
+_rlnOrientSamplingStarFile                            InitialModel/job015/run_it150_sampling.star
+_rlnCurrentIteration                                           150
+_rlnNumberOfIterations                                         150
+_rlnDoSplitRandomHalves                                          0
+_rlnJoinHalvesUntilThisResolution                         -1.00000
+_rlnAdaptiveOversampleOrder                                      1
+_rlnAdaptiveOversampleFraction                            0.999000
+_rlnRandomSeed                                          1564556213
+_rlnParticleDiameter                                    200.000000
+_rlnWidthMaskEdge                                                5
+_rlnDoZeroMask                                                   1
+_rlnDoSolventFlattening                                          1
+_rlnDoSolventFscCorrection                                       0
+_rlnSolventMaskName                                   None
+_rlnSolventMask2Name                                  None
+_rlnBodyStarFile                                      None
+_rlnTauSpectrumName                                   None
+_rlnMaximumCoarseImageSize                                      -1
+_rlnHighresLimitExpectation                               -1.00000
+_rlnLowresLimitExpectation                                -1.00000
+_rlnIncrementImageSize                                          10
+_rlnDoMapEstimation                                              1
+_rlnDoFastSubsetOptimisation                                     0
+_rlnDoExternalReconstruct                                        0
+_rlnDoStochasticGradientDescent                                  1
+_rlnDoStochasticEM                                               0
+_rlnSgdInitialIterations                                        25
+_rlnSgdFinalIterations                                          25
+_rlnSgdInBetweenIterations                                     100
+_rlnSgdInitialResolution                                 35.000000
+_rlnSgdFinalResolution                                   15.000000
+_rlnSgdInitialSubsetSize                                       100
+_rlnSgdFinalSubsetSize                                         500
+_rlnSgdMuFactor                                           0.900000
+_rlnSgdSigma2FudgeInitial                                 8.000000
+_rlnSgdSigma2FudgeHalflife                                      -1
+_rlnSgdSkipAnneal                                                0
+_rlnSgdSubsetSize                                              500
+_rlnSgdWriteEverySubset                                         10
+_rlnSgdStepsize                                           0.500000
+_rlnDoAutoRefine                                                 0
+_rlnAutoLocalSearchesHealpixOrder                                4
+_rlnNumberOfIterWithoutResolutionGain                            0
+_rlnBestResolutionThusFar                                 0.001001
+_rlnNumberOfIterWithoutChangingAssignments                      22
+_rlnDoSkipAlign                                                  0
+_rlnDoSkipRotate                                                 0
+_rlnOverallAccuracyRotations                            999.000000
+_rlnOverallAccuracyTranslationsAngst                    999.000000
+_rlnChangesOptimalOrientations                           91.250343
+_rlnChangesOptimalOffsets                                 4.695387
+_rlnChangesOptimalClasses                                 0.000000
+_rlnSmallestChangesOrientations                          52.049211
+_rlnSmallestChangesOffsets                                3.085885
+_rlnSmallestChangesClasses                                       0
+_rlnLocalSymmetryFile                                 None
+_rlnDoHelicalRefine                                              0
+_rlnIgnoreHelicalSymmetry                                        0
+_rlnFourierMask                                       None
+_rlnHelicalTwistInitial                                   0.000000
+_rlnHelicalRiseInitial                                    0.000000
+_rlnHelicalCentralProportion                              0.300000
+_rlnHelicalMaskTubeInnerDiameter                          -1.00000
+_rlnHelicalMaskTubeOuterDiameter                          -1.00000
+_rlnHelicalSymmetryLocalRefinement                               0
+_rlnHelicalSigmaDistance                                  -1.00000
+_rlnHelicalKeepTiltPriorFixed                                    0
+_rlnHasConverged                                                 0
+_rlnHasHighFscAtResolLimit                                       0
+_rlnHasLargeSizeIncreaseIterationsAgo                            0
+_rlnDoCorrectNorm                                                0
+_rlnDoCorrectScale                                               0
+_rlnDoCorrectCtf                                                 1
+_rlnDoIgnoreCtfUntilFirstPeak                                    0
+_rlnCtfDataArePhaseFlipped                                       0
+_rlnDoOnlyFlipCtfPhases                                          0
+_rlnRefsAreCtfCorrected                                          1
+_rlnFixSigmaNoiseEstimates                                       0
+_rlnFixSigmaOffsetEstimates                                      0
+_rlnMaxNumberOfPooledParticles                                 180
+ 

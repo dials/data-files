@@ -1,0 +1,6 @@
+ Set low-pass filter to 20 due to downscaling of 0.25
+ Saved ManualPick/job004/micrographs_selected.star
+ Total number of picked particles: 0 from 24 selected micrographs.
+ Using pixel size from command-line input of 0.885 Angstroms
+Saved ManualPick/job004/Movies/20170629_00021_frameImage_manualpick.star with 3 selected coordinates.
+ Total number of picked particles: 3 from 24 selected micrographs.

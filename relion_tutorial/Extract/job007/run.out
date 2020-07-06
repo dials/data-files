@@ -1,0 +1,5 @@
+ Extracting particles from 5 micrographs ...
+000/??? sec ~~(,_,">                                                          [oo]   1/   5 sec ...........~~(,_,">   3/   7 sec .......................~~(,_,">   4/   6 sec ....................................~~(,_,">   6/   7 sec ................................................~~(,_,"> Joining metadata of all particles from 5 micrographs in one STAR file...
+ The pixel size of the extracted particles in optics group 1 is 3.54 Angstrom/pixel.
+ Written out STAR file with 1158 particles in Extract/job007/particles.star
+ Done preprocessing!

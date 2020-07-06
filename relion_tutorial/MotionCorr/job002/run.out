@@ -1,0 +1,31 @@
+ Using our own implementation based on MOTIONCOR2 algorithm
+ to correct beam-induced motion for the following micrographs: 
+  * Movies/20170629_00021_frameImage.tiff
+  * Movies/20170629_00022_frameImage.tiff
+  * Movies/20170629_00023_frameImage.tiff
+  * Movies/20170629_00024_frameImage.tiff
+  * Movies/20170629_00025_frameImage.tiff
+  * Movies/20170629_00026_frameImage.tiff
+  * Movies/20170629_00027_frameImage.tiff
+  * Movies/20170629_00028_frameImage.tiff
+  * Movies/20170629_00029_frameImage.tiff
+  * Movies/20170629_00030_frameImage.tiff
+  * Movies/20170629_00031_frameImage.tiff
+  * Movies/20170629_00035_frameImage.tiff
+  * Movies/20170629_00036_frameImage.tiff
+  * Movies/20170629_00037_frameImage.tiff
+  * Movies/20170629_00039_frameImage.tiff
+  * Movies/20170629_00040_frameImage.tiff
+  * Movies/20170629_00042_frameImage.tiff
+  * Movies/20170629_00043_frameImage.tiff
+  * Movies/20170629_00044_frameImage.tiff
+  * Movies/20170629_00045_frameImage.tiff
+  * Movies/20170629_00046_frameImage.tiff
+  * Movies/20170629_00047_frameImage.tiff
+  * Movies/20170629_00048_frameImage.tiff
+  * Movies/20170629_00049_frameImage.tiff
+ Correcting beam-induced motions using our own implementation ...
+000/??? sec ~~(,_,">                                                          [oo]0.20/4.80 min ..~~(,_,">0.40/4.80 min ....~~(,_,">0.58/4.67 min .......~~(,_,">0.78/4.70 min ..........~~(,_,">0.98/4.72 min ............~~(,_,">1.17/4.67 min ...............~~(,_,">1.35/4.62 min .................~~(,_,">1.55/4.65 min ...................~~(,_,">1.75/4.67 min ......................~~(,_,">1.93/4.63 min .........................~~(,_,">2.13/4.65 min ...........................~~(,_,">2.33/4.67 min ..............................~~(,_,">2.53/4.67 min ................................~~(,_,">2.73/4.68 min ...................................~~(,_,">2.93/4.68 min .....................................~~(,_,">3.15/4.72 min .......................................~~(,_,">3.35/4.72 min ..........................................~~(,_,">3.55/4.73 min .............................................~~(,_,">3.77/4.75 min ...............................................~~(,_,">3.95/4.73 min ..................................................~~(,_,">4.15/4.73 min ....................................................~~(,_,">4.37/4.75 min .......................................................~~(,_,">4.57/4.75 min .........................................................~~(,_,">4.78/4.78 min ............................................................~~(,_,">
+ Generating logfile.pdf ... 
+000/??? sec ~~(,_,">                                                          [oo]   1/   1 sec ............................................................~~(,_,">
+ Done! Written: MotionCorr/job002/logfile.pdf and MotionCorr/job002/corrected_micrographs.star

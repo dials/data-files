@@ -1,0 +1,30 @@
+ === RELION MPI setup ===
+ + Number of MPI processes             = 3
+ + Master  (0) runs on host            = fmg26.lmb.internal
+ + Slave     1 runs on host            = fmg26.lmb.internal
+ + Slave     2 runs on host            = fmg26.lmb.internal
+ =================
+ + Reading Refine3D/job025/run_data.star...
+ + Using movie pixel size from MotionCorr/job002/Movies/20170629_00021_frameImage.star: 0.885 A
+ + Using coord. pixel size from MotionCorr/job002/Movies/20170629_00021_frameImage.star: 0.885 A
+ + Using dose per frame from MotionCorr/job002/Movies/20170629_00021_frameImage.star: 1.277 e/A^2
+ + Reading references ...
+ + The names of the reference half maps and the mask were taken from the PostProcess STAR file.
+   - Half map 1: Refine3D/job025/run_half1_class001_unfil.mrc
+   - Half map 2: Refine3D/job025/run_half2_class001_unfil.mrc
+   - Mask: MaskCreate/job020/mask.mrc
+ + Masking references ...
+ + Transforming references ...
+ + Initializing motion estimator ...
+ + using parameters from: Polish/job027/opt_params_all_groups.txt
+   s_vel: 0.4245, s_div: 1605, s_acc: 2.61
+ + Performing loop over micrographs ... 
+000/??? sec ~~(,_,">                                                          [oo]0.45/3.60 min .......~~(,_,">0.82/3.27 min ...............~~(,_,">1.17/3.10 min ......................~~(,_,">1.42/2.83 min ..............................~~(,_,">1.73/2.77 min .....................................~~(,_,">2.18/2.90 min .............................................~~(,_,">2.68/3.07 min ....................................................~~(,_,">3.17/3.17 min ............................................................~~(,_,">
+ + Fitting B/k-factors for optics-group-1 using FCCs from all particles between 15 and 108 pixels, or 20 and 2.94874 Angstrom ...
+ + Combining frames for all micrographs ... 
+000/??? sec ~~(,_,">                                                          [oo]0.15/1.20 min .......~~(,_,">0.28/1.13 min ...............~~(,_,">0.40/1.07 min ......................~~(,_,">  29/  58 sec ..............................~~(,_,">  36/  57 sec .....................................~~(,_,">  45/  60 sec .............................................~~(,_,">0.92/1.03 min ....................................................~~(,_,">1.08/1.08 min ............................................................~~(,_,">
+ + Combining all EPS and STAR files ... 
+ + Pixel size for optics group 1: 1.244
+ + Done! 
+ + Written logfile in Polish/job028/logfile.pdf
+ + Written new particle STAR file in Polish/job028/shiny.star

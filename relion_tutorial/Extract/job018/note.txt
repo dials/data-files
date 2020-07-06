@@ -1,0 +1,6 @@
+
+ ++++ Executing new job on Wed Jul 31 08:55:23 2019
+ ++++ with the following command(s): 
+`which relion_preprocess_mpi` --i CtfFind/job003/micrographs_ctf.star --reextract_data_star Select/job017/particles.star --recenter --recenter_x 0 --recenter_y 0 --recenter_z 0 --part_star Extract/job018/particles.star --part_dir Extract/job018/ --extract --extract_size 360 --scale 256 --norm --bg_radius 71 --white_dust -1 --black_dust -1 --invert_contrast   --pipeline_control Extract/job018/
+echo CtfFind/job003/micrographs_ctf.star > Extract/job018/coords_suffix_extract.star
+ ++++ 

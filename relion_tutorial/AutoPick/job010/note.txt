@@ -1,0 +1,6 @@
+
+ ++++ Executing new job on Fri Jul 26 12:22:19 2019
+ ++++ with the following command(s): 
+`which relion_autopick` --i Select/job005/micrographs_selected.star --odir AutoPick/job010/ --pickname autopick --ref Select/job009/class_averages.star --invert  --ctf  --ang 5 --shrink 0 --lowpass 20 --angpix_ref 3.54 --threshold 0 --min_distance 100 --max_stddev_noise -1 --gpu "" --write_fom_maps   --pipeline_control AutoPick/job010/
+echo Select/job005/micrographs_selected.star > AutoPick/job010/coords_suffix_autopick.star
+ ++++ 

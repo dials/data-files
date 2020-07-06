@@ -1,0 +1,6 @@
+98: 	 0.42174  	 1581.72838  	 2.61989  	 0.006192046441
+99: 	 0.42394  	 1598.56096  	 2.61650  	 0.006192046786
+
+good parameters: --s_vel 0.4245 --s_div 1605 --s_acc 2.61
+
+written to Polish/job027/opt_params_all_groups.txt

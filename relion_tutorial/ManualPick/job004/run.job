@@ -1,0 +1,24 @@
+job_type == 3
+is_continue == false
+Pixel size (A) == 0.885
+Black value: == 0
+Blue value:  == 0
+MetaDataLabel for color: == rlnParticleSelectZScore
+Scale for CTF image: == 1
+Particle diameter (A): == 200
+Blue<>red color particles? == No
+Submit to queue? == No
+Pick start-end coordinates helices? == No
+STAR file with color label:  == 
+Input micrographs: == CtfFind/job003/micrographs_ctf.star
+Highpass filter (A) == -1
+Lowpass filter (A) == 20
+Scale for micrographs: == 0.25
+Minimum dedicated cores per node: == 24
+Additional arguments: == 
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi
+Red value:  == 2
+Sigma contrast: == 3
+White value: == 0

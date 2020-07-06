@@ -1,0 +1,26 @@
+job_type == 20
+is_continue == false
+OR use your own parameters? == No
+Train optimal parameters? == Yes
+Perform particle polishing? == No
+Submit to queue? == No
+Fraction of Fourier pixels for testing:  == 0.5
+First movie frame:  == 1
+Particles (from Refine3D or CtfRefine): == Refine3D/job025/run_data.star
+Micrographs (from MotionCorr): == MotionCorr/job002/corrected_micrographs.star
+Postprocess STAR file: == PostProcess/job026/postprocess.star
+Last movie frame:  == -1
+Maximum resolution for B-factor fit (A):  == -1
+Minimum dedicated cores per node: == 24
+Minimum resolution for B-factor fit (A):  == 20
+Number of MPI procs: == 1
+Number of threads: == 16
+Optimised parameter file: == 
+Use this many particles:  == 4000
+Additional arguments: == 
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi
+Sigma for acceleration (A/dose):  == 2
+Sigma for divergence (A):  == 5000
+Sigma for velocity (A/dose):  == 0.2

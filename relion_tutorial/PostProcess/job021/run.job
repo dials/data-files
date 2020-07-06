@@ -1,0 +1,20 @@
+job_type == 15
+is_continue == false
+User-provided B-factor: == -1000
+Calibrated pixel size (A) == 1.244
+Lowest resolution for auto-B fit (A): == 10
+Use your own B-factor? == No
+Estimate B-factor automatically? == Yes
+Perform MTF correction? == No
+Submit to queue? == No
+Skip FSC-weighting? == No
+One of the 2 unfiltered half-maps: == Refine3D/job019/run_half1_class001_unfil.mrc
+Solvent mask: == MaskCreate/job020/mask.mrc
+MTF of the detector (STAR file) == 
+Ad-hoc low-pass filter (A): == 5
+Minimum dedicated cores per node: == 24
+Original detector pixel size: == 1
+Additional arguments: == 
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi

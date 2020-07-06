@@ -1,0 +1,17 @@
+job_type == 12
+is_continue == false
+Pixel size (A) == -1
+Mask a 3D helix? == No
+Submit to queue? == No
+Extend binary map this many pixels: == 0
+Input 3D map: == Refine3D/job019/run_class001.mrc
+Central Z length (%): == 30
+Initial binarisation threshold: == 0.005
+Lowpass filter map (A) == 15
+Minimum dedicated cores per node: == 24
+Number of threads: == 12
+Additional arguments: == 
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi
+Add a soft-edge of this many pixels: == 6

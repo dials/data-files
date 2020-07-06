@@ -1,0 +1,5 @@
+
+ ++++ Executing new job on Wed Jul 31 08:52:12 2019
+ ++++ with the following command(s): 
+`which relion_display` --gui --i Class3D/job016/run_it025_model.star --allow_save --fn_parts Select/job017/particles.star  --pipeline_control Select/job017/
+ ++++ 

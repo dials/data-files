@@ -1,0 +1,22 @@
+job_type == 16
+is_continue == false
+User-provided B-factor: == -30
+Calibrated pixel size (A) == 1.244
+Submit to queue? == No
+Use Relion? == Yes
+Use ResMap? == No
+One of the 2 unfiltered half-maps: == Refine3D/job029/run_half1_class001_unfil.mrc
+User-provided solvent mask: == 
+MTF of the detector (STAR file) == 
+ResMap executable: == /public/EM/ResMap/ResMap-1.1.4-linux64
+Lowest resolution (A):  == 0
+Minimum dedicated cores per node: == 24
+Highest resolution (A):  == 0
+Number of MPI procs: == 12
+Number of threads: == 1
+Additional arguments: == 
+P-value: == 0.05
+Queue submit command: == qsub
+Standard submission script: == /public/EM/RELION/relion/bin/relion_qsub.csh
+Queue name:  == openmpi
+Resolution step size (A) == 1
