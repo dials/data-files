@@ -17,7 +17,7 @@
     {
       "__id__": "ImageSequence",
       "template": "l-cyst_01_#####.cbf",
-      "mask": "",
+      "mask": "non-existent.pickle",
       "gain": "",
       "pedestal": "",
       "dx": "",
