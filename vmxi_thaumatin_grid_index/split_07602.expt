@@ -14,7 +14,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/Volumes/Blue2/Data/vmxi-grid-34022/image_34022_master.h5",
+      "template": "image_34022_master.h5",
       "single_file_indices": [
         0,
         1,
@@ -10451,7 +10451,7 @@
         10432,
         10433
       ],
-      "mask": "/Users/graeme/Projects/vmxi-grid-34022/pixels.mask",
+      "mask": "",
       "gain": "",
       "pedestal": "",
       "dx": "",
