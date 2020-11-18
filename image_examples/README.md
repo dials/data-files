@@ -11,6 +11,12 @@ dlsnxs2cbf_therm_0001.cbf.gz
 - Original file: https://zenodo.org/record/2616448/files/Therm_6_2_master.h5
 - For testing FormatCBFMiniEigerDLS16MSN160
 
+SACLA-MPCCD-run266702-0-subset.h5
+- This file contains first four images from run 266702-0 in CXIDB #33.
+- See http://cxidb.org/id-33.html
+- Provided by Takanori Nakane
+- SACLA-MPCCD-run266702-0-subset-refined_experiments_level1.json: refined detector metrology from Rahel Woldeyes
+
 SACLA-MPCCD-Phase3-21528-5images.h5
 - Courtesy of Takanori Nakane (2019)
 - See also: https://github.com/cctbx/dxtbx/issues/70#issuecomment-520026981
