@@ -11,6 +11,11 @@ dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P
 - Original file: https://zenodo.org/record/2616448/files/Therm_6_2_master.h5
 - For testing FormatCBFMiniEigerDLS16MSN160
 
+`Gatan_float32_zero_array_001.dm4.gz`
+- DM4 format float32 image with the data array zero-filled to aid compression
+- For testing FormatGatanDM4
+- Based on an image provided by Sam Morris at NTU
+
 `SACLA-MPCCD-run266702-0-subset.h5`
 - This file contains first four images from run 266702-0 in CXIDB #33.
 - See http://cxidb.org/id-33.html
