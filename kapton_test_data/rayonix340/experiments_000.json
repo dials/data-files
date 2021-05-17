@@ -14,7 +14,7 @@
     {
       "__id__": "ImageSet", 
       "images": [
-        "/reg/d/psdm/mfx/mfxlu5017/scratch/common/results/r0123/004_rg041/out/idx-20181211002948350.cbf"
+        "idx-20181211002948350.cbf"
       ], 
       "mask": "", 
       "gain": "", 
