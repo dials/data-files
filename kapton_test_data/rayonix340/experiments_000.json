@@ -1,0 +1,173 @@
+{
+  "__id__": "ExperimentList", 
+  "experiment": [
+    {
+      "__id__": "Experiment", 
+      "identifier": "", 
+      "beam": 0, 
+      "detector": 0, 
+      "crystal": 0, 
+      "imageset": 0
+    }
+  ], 
+  "imageset": [
+    {
+      "__id__": "ImageSet", 
+      "images": [
+        "idx-20181211002948350.cbf"
+      ], 
+      "mask": "", 
+      "gain": "", 
+      "pedestal": "", 
+      "dx": "", 
+      "dy": "", 
+      "params": {}
+    }
+  ], 
+  "beam": [
+    {
+      "direction": [
+        -0.0, 
+        -0.0, 
+        1.0
+      ], 
+      "transmission": 1.0, 
+      "polarization_normal": [
+        0.0, 
+        1.0, 
+        0.0
+      ], 
+      "divergence": 0.0, 
+      "polarization_fraction": 0.999, 
+      "flux": 0.0, 
+      "sigma_divergence": 0.0, 
+      "wavelength": 1.30032587171
+    }
+  ], 
+  "detector": [
+    {
+      "hierarchy": {
+        "origin": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "fast_axis": [
+          1.0, 
+          0.0, 
+          0.0
+        ], 
+        "name": "", 
+        "raw_image_offset": [
+          0, 
+          0
+        ], 
+        "slow_axis": [
+          0.0, 
+          1.0, 
+          0.0
+        ], 
+        "material": "", 
+        "mask": [], 
+        "thickness": 0.0, 
+        "mu": 0.0, 
+        "gain": 1.0, 
+        "trusted_range": [
+          0.0, 
+          0.0
+        ], 
+        "image_size": [
+          0, 
+          0
+        ], 
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        }, 
+        "identifier": "", 
+        "type": "", 
+        "children": [
+          {
+            "panel": 0
+          }
+        ], 
+        "pixel_size": [
+          0.0, 
+          0.0
+        ]
+      }, 
+      "panels": [
+        {
+          "origin": [
+            -169.941607185545, 
+            170.0673532636642, 
+            -123.54552513647172
+          ], 
+          "fast_axis": [
+            1.0, 
+            0.0, 
+            0.0
+          ], 
+          "name": "Panel", 
+          "raw_image_offset": [
+            0, 
+            0
+          ], 
+          "slow_axis": [
+            0.0, 
+            -1.0, 
+            0.0
+          ], 
+          "material": "", 
+          "mask": [], 
+          "thickness": 0.0, 
+          "mu": 0.0, 
+          "gain": 1.0, 
+          "trusted_range": [
+            -1.0, 
+            65535.0
+          ], 
+          "image_size": [
+            1920, 
+            1920
+          ], 
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }, 
+          "identifier": "", 
+          "type": "SENSOR_UNKNOWN", 
+          "pixel_size": [
+            0.177083333333, 
+            0.177083333333
+          ]
+        }
+      ]
+    }
+  ], 
+  "goniometer": [], 
+  "scan": [], 
+  "crystal": [
+    {
+      "__id__": "crystal", 
+      "real_space_a": [
+        -40.38025305509738, 
+        -5.285351240176329, 
+        9.631229757430818
+      ], 
+      "real_space_b": [
+        -19.92053086445638, 
+        30.94610820043826, 
+        -66.53719639990776
+      ], 
+      "real_space_c": [
+        1.7193134187500305, 
+        -92.29740143296353, 
+        -43.44179141566093
+      ], 
+      "space_group_hall_symbol": " P 2ac 2ab", 
+      "ML_half_mosaicity_deg": 0.04566607719285276, 
+      "ML_domain_size_ang": 4426.147273275069
+    }
+  ], 
+  "profile": [], 
+  "scaling_model": []
+}
