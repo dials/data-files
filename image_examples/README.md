@@ -54,3 +54,8 @@ dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P
   * The global `flatfield` and `pixel_mask` have also been chunked to enable compression.
   * To improve compressibility, the detector module `flatfield` and global `flatfield` values have all been set to `1`, the detector module `pixel_mask` and global `pixel_mask` values have all been set to `0` and the detector module `trimbit` values have all been set to `16`.
   * Dectris uses 32-bit unsigned integers to record the global and module `pixel_mask` values.  Since only the five least significant bits are meaningful, the other 27 bits being undefined, a smaller data type would suffice.  Accordingly, the data type has been changed to 8-bit unsigned integers.
+
+`endonat3_001.mar2300`
+- Example mar345 file
+- Original source: Erskine, Peter, & Cooper, Jonathan. (2016). Atomic resolution X-ray diffraction images of native endothiapepsin. [Data set]. Zenodo. http://doi.org/10.5281/zenodo.196290
+
