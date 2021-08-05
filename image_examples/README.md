@@ -6,6 +6,11 @@ testing dxtbx format classes.
 dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P45_1_0001.cbf
 - For testing FormatCBFFullPilatusDLS6MSN126
 
+`DLS_I23_P12M_thau_00001.cbf.gz`
+- miniCBF PILATUS 12M image from DLS beamline I23, with Kappa goniometer installed
+- Original file: `/dls/i23/data/2021/cm28128-3/TestThaumatin/20210617/TestThaumatin_1_4500eV/data_1_00001.cbf`
+- SynchWeb permalink: https://ispyb.diamond.ac.uk/dc/visit/cm28128-3/id/6392922
+
 `dlsnxs2cbf_therm_0001.cbf.gz`
 - miniCBF file converted from original .h5 file using dlsnxs2cbf
 - Original file: https://zenodo.org/record/2616448/files/Therm_6_2_master.h5
