@@ -50,7 +50,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "merlin0047_#####.cbf",
+      "template": "../cunir_serial/merlin0047_#####.cbf",
       "mask": null,
       "gain": null,
       "pedestal": null,
