@@ -14,7 +14,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/home/elena/Work/Diamond/Data/data-files/Al_standard/0p67_5s_####.mrc",
+      "template": "0p67_5s_####.mrc",
       "mask": null,
       "gain": null,
       "pedestal": null,
