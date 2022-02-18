@@ -14,7 +14,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/dls/science/users/fyi77748/data/Al_standard/Yun_cameralength_cal/cameralength_cal/Al-standard_0p67_5s/0p67_5s_####.mrc",
+      "template": "0p67_5s_####.mrc",
       "mask": null,
       "gain": null,
       "pedestal": null,
