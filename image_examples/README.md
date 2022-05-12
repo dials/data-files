@@ -26,6 +26,7 @@ dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P
 - See http://cxidb.org/id-33.html
 - Provided by Takanori Nakane
 - SACLA-MPCCD-run266702-0-subset-refined_experiments_level1.json: refined detector metrology from Rahel Woldeyes
+- SACLA-MPCCD-run266702-0-subset-known_orientations.expt: indexing results from dials.stills_process
 
 `SACLA-MPCCD-Phase3-21528-5images.h5`
 - Courtesy of Takanori Nakane (2019)

@@ -1,0 +1,2337 @@
+{
+  "__id__": "ExperimentList",
+  "experiment": [
+    {
+      "__id__": "Experiment",
+      "identifier": "b479e32b-2e85-1aab-9554-67583e546848",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 0,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "3f93e74a-6ec1-7a9b-a8bc-ca0c7b3cb575",
+      "beam": 1,
+      "detector": 1,
+      "crystal": 1,
+      "imageset": 1
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "6e2a9775-6fe4-3665-b325-a874507fcd46",
+      "beam": 2,
+      "detector": 2,
+      "crystal": 2,
+      "imageset": 2
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "73086c75-d3cd-69ea-3fbf-034d0f23ad49",
+      "beam": 3,
+      "detector": 3,
+      "crystal": 3,
+      "imageset": 3
+    }
+  ],
+  "imageset": [
+    {
+      "__id__": "ImageSet",
+      "images": [
+        "/dev/shm/aaron/build/dials_data/image_examples/SACLA-MPCCD-run266702-0-subset.h5"
+      ],
+      "single_file_indices": [
+        0
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {}
+    },
+    {
+      "__id__": "ImageSet",
+      "images": [
+        "/dev/shm/aaron/build/dials_data/image_examples/SACLA-MPCCD-run266702-0-subset.h5"
+      ],
+      "single_file_indices": [
+        1
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {}
+    },
+    {
+      "__id__": "ImageSet",
+      "images": [
+        "/dev/shm/aaron/build/dials_data/image_examples/SACLA-MPCCD-run266702-0-subset.h5"
+      ],
+      "single_file_indices": [
+        2
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {}
+    },
+    {
+      "__id__": "ImageSet",
+      "images": [
+        "/dev/shm/aaron/build/dials_data/image_examples/SACLA-MPCCD-run266702-0-subset.h5"
+      ],
+      "single_file_indices": [
+        3
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {}
+    }
+  ],
+  "beam": [
+    {
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 1.768464241563069,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    },
+    {
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 1.7700876795219047,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    },
+    {
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 1.7707829062422376,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    },
+    {
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 1.768928498119564,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    }
+  ],
+  "detector": [
+    {
+      "panels": [
+        {
+          "name": "Panel0",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.003253003398224564,
+            -0.9999861928665739,
+            -0.004126989835995023
+          ],
+          "slow_axis": [
+            -0.9999940824061511,
+            -0.003257593578473193,
+            0.0011060003425578814
+          ],
+          "origin": [
+            -1.8007651293139824,
+            51.78009389947009,
+            0.2526427624142012
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel1",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0019710319766964857,
+            -0.9999977874318555,
+            0.0007349587338160988
+          ],
+          "slow_axis": [
+            -0.9999980114597081,
+            -0.001971254411183279,
+            -0.000302047473370443
+          ],
+          "origin": [
+            -1.7258781835500874,
+            24.989661633172382,
+            0.15930183235432246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel2",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0016961777707423815,
+            -0.9999985314876327,
+            0.00024495621683667774
+          ],
+          "slow_axis": [
+            -0.9999981020304081,
+            -0.0016964117565647482,
+            -0.0009581872123307948
+          ],
+          "origin": [
+            0.8201738154328873,
+            -1.7556184398969785,
+            0.18132962562021196
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel3",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0013106713715853526,
+            -0.9999719442083786,
+            0.007375156721790024
+          ],
+          "slow_axis": [
+            -0.9999981824432402,
+            -0.0013004224536164956,
+            0.0013942781853357028
+          ],
+          "origin": [
+            0.8435560335561062,
+            -28.427234841981626,
+            0.13531337752227085
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel4",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0013009366486838759,
+            0.9999976399248655,
+            0.0017400311880806161
+          ],
+          "slow_axis": [
+            0.9999956599027217,
+            0.001296330469786463,
+            0.002645695189055957
+          ],
+          "origin": [
+            -0.9320341349908166,
+            28.521536666237054,
+            0.1554320481563246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel5",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.001676367177353069,
+            0.9999985266583652,
+            0.00036942412710217365
+          ],
+          "slow_axis": [
+            0.9999981162443066,
+            0.001676004808496558,
+            0.0009790381608194385
+          ],
+          "origin": [
+            -0.8241211953497959,
+            1.7956716480058117,
+            0.17934046310908822
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel6",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0017230305568930763,
+            0.999998434107816,
+            0.00040366770527566775
+          ],
+          "slow_axis": [
+            0.9999979088078678,
+            0.0017225846851352316,
+            0.0011023075316151517
+          ],
+          "origin": [
+            1.6407688507314264,
+            -24.903251483858543,
+            0.17517205829491372
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel7",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0025089142168716848,
+            0.9999920124203653,
+            -0.003111341337859707
+          ],
+          "slow_axis": [
+            0.9999909693956819,
+            0.0025195599954393054,
+            0.0034224179338673316
+          ],
+          "origin": [
+            1.6929284103310205,
+            -51.62900474037233,
+            0.2296763776299074
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          0.9999925163619835,
+          -9.747948178991487e-06,
+          -0.0038687368747125144
+        ],
+        "slow_axis": [
+          -5.946005946254818e-06,
+          0.9999917720395785,
+          -0.004056577102552253
+        ],
+        "origin": [
+          0.024407882079373985,
+          0.012090806520480892,
+          -49.31783739807193
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          },
+          {
+            "panel": 1
+          },
+          {
+            "panel": 2
+          },
+          {
+            "panel": 3
+          },
+          {
+            "panel": 4
+          },
+          {
+            "panel": 5
+          },
+          {
+            "panel": 6
+          },
+          {
+            "panel": 7
+          }
+        ]
+      }
+    },
+    {
+      "panels": [
+        {
+          "name": "Panel0",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.003253003398224564,
+            -0.9999861928665739,
+            -0.004126989835995023
+          ],
+          "slow_axis": [
+            -0.9999940824061511,
+            -0.003257593578473193,
+            0.0011060003425578814
+          ],
+          "origin": [
+            -1.8007651293139824,
+            51.78009389947009,
+            0.2526427624142012
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel1",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0019710319766964857,
+            -0.9999977874318555,
+            0.0007349587338160988
+          ],
+          "slow_axis": [
+            -0.9999980114597081,
+            -0.001971254411183279,
+            -0.000302047473370443
+          ],
+          "origin": [
+            -1.7258781835500874,
+            24.989661633172382,
+            0.15930183235432246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel2",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0016961777707423815,
+            -0.9999985314876327,
+            0.00024495621683667774
+          ],
+          "slow_axis": [
+            -0.9999981020304081,
+            -0.0016964117565647482,
+            -0.0009581872123307948
+          ],
+          "origin": [
+            0.8201738154328873,
+            -1.7556184398969785,
+            0.18132962562021196
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel3",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0013106713715853526,
+            -0.9999719442083786,
+            0.007375156721790024
+          ],
+          "slow_axis": [
+            -0.9999981824432402,
+            -0.0013004224536164956,
+            0.0013942781853357028
+          ],
+          "origin": [
+            0.8435560335561062,
+            -28.427234841981626,
+            0.13531337752227085
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel4",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0013009366486838759,
+            0.9999976399248655,
+            0.0017400311880806161
+          ],
+          "slow_axis": [
+            0.9999956599027217,
+            0.001296330469786463,
+            0.002645695189055957
+          ],
+          "origin": [
+            -0.9320341349908166,
+            28.521536666237054,
+            0.1554320481563246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel5",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.001676367177353069,
+            0.9999985266583652,
+            0.00036942412710217365
+          ],
+          "slow_axis": [
+            0.9999981162443066,
+            0.001676004808496558,
+            0.0009790381608194385
+          ],
+          "origin": [
+            -0.8241211953497959,
+            1.7956716480058117,
+            0.17934046310908822
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel6",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0017230305568930763,
+            0.999998434107816,
+            0.00040366770527566775
+          ],
+          "slow_axis": [
+            0.9999979088078678,
+            0.0017225846851352316,
+            0.0011023075316151517
+          ],
+          "origin": [
+            1.6407688507314264,
+            -24.903251483858543,
+            0.17517205829491372
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel7",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0025089142168716848,
+            0.9999920124203653,
+            -0.003111341337859707
+          ],
+          "slow_axis": [
+            0.9999909693956819,
+            0.0025195599954393054,
+            0.0034224179338673316
+          ],
+          "origin": [
+            1.6929284103310205,
+            -51.62900474037233,
+            0.2296763776299074
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          0.9999967299147808,
+          -6.0572528309802905e-06,
+          -0.0025573664294784074
+        ],
+        "slow_axis": [
+          7.266271521414121e-07,
+          0.9999978276028407,
+          -0.00208441576254677
+        ],
+        "origin": [
+          0.015408138947645436,
+          0.036491645799738806,
+          -49.317525698554554
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          },
+          {
+            "panel": 1
+          },
+          {
+            "panel": 2
+          },
+          {
+            "panel": 3
+          },
+          {
+            "panel": 4
+          },
+          {
+            "panel": 5
+          },
+          {
+            "panel": 6
+          },
+          {
+            "panel": 7
+          }
+        ]
+      }
+    },
+    {
+      "panels": [
+        {
+          "name": "Panel0",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.003253003398224564,
+            -0.9999861928665739,
+            -0.004126989835995023
+          ],
+          "slow_axis": [
+            -0.9999940824061511,
+            -0.003257593578473193,
+            0.0011060003425578814
+          ],
+          "origin": [
+            -1.8007651293139824,
+            51.78009389947009,
+            0.2526427624142012
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel1",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0019710319766964857,
+            -0.9999977874318555,
+            0.0007349587338160988
+          ],
+          "slow_axis": [
+            -0.9999980114597081,
+            -0.001971254411183279,
+            -0.000302047473370443
+          ],
+          "origin": [
+            -1.7258781835500874,
+            24.989661633172382,
+            0.15930183235432246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel2",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0016961777707423815,
+            -0.9999985314876327,
+            0.00024495621683667774
+          ],
+          "slow_axis": [
+            -0.9999981020304081,
+            -0.0016964117565647482,
+            -0.0009581872123307948
+          ],
+          "origin": [
+            0.8201738154328873,
+            -1.7556184398969785,
+            0.18132962562021196
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel3",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0013106713715853526,
+            -0.9999719442083786,
+            0.007375156721790024
+          ],
+          "slow_axis": [
+            -0.9999981824432402,
+            -0.0013004224536164956,
+            0.0013942781853357028
+          ],
+          "origin": [
+            0.8435560335561062,
+            -28.427234841981626,
+            0.13531337752227085
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel4",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0013009366486838759,
+            0.9999976399248655,
+            0.0017400311880806161
+          ],
+          "slow_axis": [
+            0.9999956599027217,
+            0.001296330469786463,
+            0.002645695189055957
+          ],
+          "origin": [
+            -0.9320341349908166,
+            28.521536666237054,
+            0.1554320481563246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel5",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.001676367177353069,
+            0.9999985266583652,
+            0.00036942412710217365
+          ],
+          "slow_axis": [
+            0.9999981162443066,
+            0.001676004808496558,
+            0.0009790381608194385
+          ],
+          "origin": [
+            -0.8241211953497959,
+            1.7956716480058117,
+            0.17934046310908822
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel6",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0017230305568930763,
+            0.999998434107816,
+            0.00040366770527566775
+          ],
+          "slow_axis": [
+            0.9999979088078678,
+            0.0017225846851352316,
+            0.0011023075316151517
+          ],
+          "origin": [
+            1.6407688507314264,
+            -24.903251483858543,
+            0.17517205829491372
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel7",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0025089142168716848,
+            0.9999920124203653,
+            -0.003111341337859707
+          ],
+          "slow_axis": [
+            0.9999909693956819,
+            0.0025195599954393054,
+            0.0034224179338673316
+          ],
+          "origin": [
+            1.6929284103310205,
+            -51.62900474037233,
+            0.2296763776299074
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          0.9999998611779599,
+          -7.058126502632124e-06,
+          -0.0005268721323497887
+        ],
+        "slow_axis": [
+          8.746647543211213e-06,
+          0.999994864356452,
+          0.0032048688300189703
+        ],
+        "origin": [
+          -0.01132167115376814,
+          0.027942181287005822,
+          -49.31678922494776
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          },
+          {
+            "panel": 1
+          },
+          {
+            "panel": 2
+          },
+          {
+            "panel": 3
+          },
+          {
+            "panel": 4
+          },
+          {
+            "panel": 5
+          },
+          {
+            "panel": 6
+          },
+          {
+            "panel": 7
+          }
+        ]
+      }
+    },
+    {
+      "panels": [
+        {
+          "name": "Panel0",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.003253003398224564,
+            -0.9999861928665739,
+            -0.004126989835995023
+          ],
+          "slow_axis": [
+            -0.9999940824061511,
+            -0.003257593578473193,
+            0.0011060003425578814
+          ],
+          "origin": [
+            -1.8007651293139824,
+            51.78009389947009,
+            0.2526427624142012
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel1",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0019710319766964857,
+            -0.9999977874318555,
+            0.0007349587338160988
+          ],
+          "slow_axis": [
+            -0.9999980114597081,
+            -0.001971254411183279,
+            -0.000302047473370443
+          ],
+          "origin": [
+            -1.7258781835500874,
+            24.989661633172382,
+            0.15930183235432246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel2",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0016961777707423815,
+            -0.9999985314876327,
+            0.00024495621683667774
+          ],
+          "slow_axis": [
+            -0.9999981020304081,
+            -0.0016964117565647482,
+            -0.0009581872123307948
+          ],
+          "origin": [
+            0.8201738154328873,
+            -1.7556184398969785,
+            0.18132962562021196
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel3",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.0013106713715853526,
+            -0.9999719442083786,
+            0.007375156721790024
+          ],
+          "slow_axis": [
+            -0.9999981824432402,
+            -0.0013004224536164956,
+            0.0013942781853357028
+          ],
+          "origin": [
+            0.8435560335561062,
+            -28.427234841981626,
+            0.13531337752227085
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel4",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0013009366486838759,
+            0.9999976399248655,
+            0.0017400311880806161
+          ],
+          "slow_axis": [
+            0.9999956599027217,
+            0.001296330469786463,
+            0.002645695189055957
+          ],
+          "origin": [
+            -0.9320341349908166,
+            28.521536666237054,
+            0.1554320481563246
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel5",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.001676367177353069,
+            0.9999985266583652,
+            0.00036942412710217365
+          ],
+          "slow_axis": [
+            0.9999981162443066,
+            0.001676004808496558,
+            0.0009790381608194385
+          ],
+          "origin": [
+            -0.8241211953497959,
+            1.7956716480058117,
+            0.17934046310908822
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel6",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0017230305568930763,
+            0.999998434107816,
+            0.00040366770527566775
+          ],
+          "slow_axis": [
+            0.9999979088078678,
+            0.0017225846851352316,
+            0.0011023075316151517
+          ],
+          "origin": [
+            1.6407688507314264,
+            -24.903251483858543,
+            0.17517205829491372
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel7",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            -0.0025089142168716848,
+            0.9999920124203653,
+            -0.003111341337859707
+          ],
+          "slow_axis": [
+            0.9999909693956819,
+            0.0025195599954393054,
+            0.0034224179338673316
+          ],
+          "origin": [
+            1.6929284103310205,
+            -51.62900474037233,
+            0.2296763776299074
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            512,
+            1024
+          ],
+          "pixel_size": [
+            0.05,
+            0.05
+          ],
+          "trusted_range": [
+            -1.0,
+            65535.0
+          ],
+          "thickness": 0.05,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          0.9999994759200755,
+          -1.6325458780078332e-06,
+          -0.001023795345350493
+        ],
+        "slow_axis": [
+          -1.9626392466417527e-06,
+          0.9999938342627526,
+          -0.003511613963228201
+        ],
+        "origin": [
+          -0.033032047324843446,
+          0.04684409306213333,
+          -49.31759031478989
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          },
+          {
+            "panel": 1
+          },
+          {
+            "panel": 2
+          },
+          {
+            "panel": 3
+          },
+          {
+            "panel": 4
+          },
+          {
+            "panel": 5
+          },
+          {
+            "panel": 6
+          },
+          {
+            "panel": 7
+          }
+        ]
+      }
+    }
+  ],
+  "goniometer": [],
+  "scan": [],
+  "crystal": [
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        16.122027897091176,
+        -75.24672351520964,
+        -10.68548392542079
+      ],
+      "real_space_b": [
+        -75.86658124415781,
+        -16.584434506292695,
+        2.3210196982151317
+      ],
+      "real_space_c": [
+        -2.1365809578591586,
+        4.695350432053276,
+        -36.288085432636315
+      ],
+      "space_group_hall_symbol": "-P 4 2",
+      "B_covariance": [
+        1.2757892330367669e-11,
+        -1.5623912006251333e-27,
+        -1.3704326651519295e-26,
+        -4.89234361234876e-28,
+        1.2757892330367669e-11,
+        -1.3704326651519295e-26,
+        6.927339108272404e-27,
+        1.670235692139007e-27,
+        -1.1190431936016801e-10,
+        -1.5623912006251333e-27,
+        1.9133773828615594e-43,
+        1.6782959768252864e-42,
+        5.991392945191908e-44,
+        -1.5623912006251333e-27,
+        1.6782959768252864e-42,
+        -8.483543665554075e-43,
+        -2.045448794199697e-43,
+        1.370432665151929e-26,
+        -1.3704326651519295e-26,
+        1.6782959768252864e-42,
+        3.667803280709082e-41,
+        5.255278318622485e-43,
+        -1.3704326651519295e-26,
+        3.667803280709082e-41,
+        -2.1043477570405225e-41,
+        -6.973453083223761e-42,
+        2.994988663884762e-25,
+        -4.892343612348761e-28,
+        5.991392945191909e-44,
+        5.255278318622485e-43,
+        1.8760956278269468e-44,
+        -4.892343612348761e-28,
+        5.255278318622485e-43,
+        -2.6564672564495265e-43,
+        -6.404950526273717e-44,
+        4.291260404454096e-27,
+        1.2757892330367669e-11,
+        -1.5623912006251333e-27,
+        -1.3704326651519295e-26,
+        -4.89234361234876e-28,
+        1.2757892330367669e-11,
+        -1.3704326651519295e-26,
+        6.927339108272404e-27,
+        1.670235692139007e-27,
+        -1.1190431936016801e-10,
+        -1.3704326651519295e-26,
+        1.6782959768252864e-42,
+        3.667803280709082e-41,
+        5.255278318622485e-43,
+        -1.3704326651519295e-26,
+        3.667803280709082e-41,
+        -2.1043477570405225e-41,
+        -6.973453083223761e-42,
+        2.994988663884762e-25,
+        6.927339108272406e-27,
+        -8.483543665554077e-43,
+        -2.1043477570405222e-41,
+        -2.6564672564495265e-43,
+        6.927339108272406e-27,
+        -2.1043477570405222e-41,
+        1.218792635536308e-41,
+        4.115458394272896e-42,
+        -1.718330345129429e-25,
+        1.6702356921390073e-27,
+        -2.045448794199697e-43,
+        -6.973453083223761e-42,
+        -6.404950526273717e-44,
+        1.6702356921390073e-27,
+        -6.973453083223761e-42,
+        4.115458394272896e-42,
+        1.4403788403279838e-42,
+        -5.694256571020272e-26,
+        -1.1190431936016802e-10,
+        1.370432665151929e-26,
+        2.994988663884762e-25,
+        4.291260404454096e-27,
+        -1.1190431936016802e-10,
+        2.994988663884762e-25,
+        -1.7183303451294291e-25,
+        -5.694256571020273e-26,
+        2.4455938365004418e-09
+      ],
+      "ML_half_mosaicity_deg": 0.1997401380171317,
+      "ML_domain_size_ang": 1087093.393098551
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        36.672756743945435,
+        -26.968577066027777,
+        62.80550231870529
+      ],
+      "real_space_b": [
+        -4.223580165154866,
+        70.24415790760254,
+        32.62891368268456
+      ],
+      "real_space_c": [
+        -32.72161328973217,
+        -9.039537799723487,
+        15.224912744084518
+      ],
+      "space_group_hall_symbol": "-P 4 2",
+      "B_covariance": [
+        4.0279147018194174e-11,
+        -4.932772846821716e-27,
+        -5.374056183865577e-27,
+        -1.5446080161396065e-27,
+        4.0279147018194174e-11,
+        -5.374056183865577e-27,
+        -1.5479792198054752e-27,
+        -3.643948054156392e-27,
+        -4.388249891811423e-11,
+        -4.932772846821716e-27,
+        6.040904477781193e-43,
+        6.581320704009017e-43,
+        1.8915992629027124e-43,
+        -4.932772846821716e-27,
+        6.581320704009017e-43,
+        1.8957277966813937e-43,
+        4.4625493207818525e-43,
+        5.374056183865576e-27,
+        -5.374056183865577e-27,
+        6.581320704009017e-43,
+        8.414978321725958e-42,
+        2.0608207659000074e-43,
+        -5.374056183865577e-27,
+        8.414978321725958e-42,
+        -4.641954869585264e-42,
+        -1.3599772160897512e-42,
+        6.871351256202845e-26,
+        -1.5446080161396065e-27,
+        1.8915992629027124e-43,
+        2.0608207659000078e-43,
+        5.923198727234848e-44,
+        -1.5446080161396065e-27,
+        2.0608207659000078e-43,
+        5.936126479165614e-44,
+        1.39736607935215e-43,
+        1.6827878595974216e-27,
+        4.0279147018194174e-11,
+        -4.932772846821716e-27,
+        -5.374056183865577e-27,
+        -1.5446080161396065e-27,
+        4.0279147018194174e-11,
+        -5.374056183865577e-27,
+        -1.5479792198054752e-27,
+        -3.643948054156392e-27,
+        -4.388249891811423e-11,
+        -5.374056183865577e-27,
+        6.581320704009017e-43,
+        8.414978321725958e-42,
+        2.0608207659000074e-43,
+        -5.374056183865577e-27,
+        8.414978321725958e-42,
+        -4.641954869585264e-42,
+        -1.3599772160897512e-42,
+        6.871351256202845e-26,
+        -1.547979219805475e-27,
+        1.8957277966813945e-43,
+        -4.641954869585265e-42,
+        5.93612647916561e-44,
+        -1.547979219805475e-27,
+        -4.641954869585265e-42,
+        3.113259976434189e-42,
+        1.3028224960214319e-42,
+        -3.790443802096388e-26,
+        -3.6439480541563914e-27,
+        4.4625493207818525e-43,
+        -1.359977216089751e-42,
+        1.3973660793521497e-43,
+        -3.6439480541563914e-27,
+        -1.359977216089751e-42,
+        1.3028224960214317e-42,
+        7.72409384802135e-43,
+        -1.1105056715427015e-26,
+        -4.388249891811422e-11,
+        5.374056183865575e-27,
+        6.871351256202845e-26,
+        1.6827878595974212e-27,
+        -4.388249891811422e-11,
+        6.871351256202845e-26,
+        -3.7904438020963874e-26,
+        -1.1105056715427015e-26,
+        5.610884102246417e-10
+      ],
+      "ML_half_mosaicity_deg": 0.7166912627953193,
+      "ML_domain_size_ang": 9113298.243179312
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        40.8136648525917,
+        -1.5329899745646656,
+        65.62894264410178
+      ],
+      "real_space_b": [
+        -30.807690795815688,
+        -68.68764316453853,
+        17.55440895829399
+      ],
+      "real_space_c": [
+        27.848513033723638,
+        -17.018257313265032,
+        -17.7160967189789
+      ],
+      "space_group_hall_symbol": "-P 4 2",
+      "B_covariance": [
+        1.0343849408840566e-10,
+        -1.2667562069398842e-26,
+        -1.4064724821337284e-26,
+        -3.966616449801966e-27,
+        1.0343849408840566e-10,
+        -1.4064724821337284e-26,
+        -3.79505315806925e-27,
+        -9.289184916122923e-27,
+        -1.1484719374704361e-10,
+        -1.2667562069398842e-26,
+        1.5513289341289717e-42,
+        1.7224320233339036e-42,
+        4.8577041386952165e-43,
+        -1.2667562069398842e-26,
+        1.7224320233339036e-42,
+        4.647599702623564e-43,
+        1.1375970574217815e-42,
+        1.4064724821337286e-26,
+        -1.4064724821337284e-26,
+        1.7224320233339036e-42,
+        9.657134992556705e-42,
+        5.393482313322645e-43,
+        -1.4064724821337284e-26,
+        9.657134992556705e-42,
+        -4.369618647247604e-42,
+        -5.972325729801031e-43,
+        7.885649151478107e-26,
+        -3.9666164498019665e-27,
+        4.8577041386952165e-43,
+        5.393482313322645e-43,
+        1.5211016168112572e-43,
+        -3.9666164498019665e-27,
+        5.393482313322645e-43,
+        1.4553112375944506e-43,
+        3.5621780864340323e-43,
+        4.4041125303049e-27,
+        1.0343849408840566e-10,
+        -1.2667562069398842e-26,
+        -1.4064724821337284e-26,
+        -3.966616449801966e-27,
+        1.0343849408840566e-10,
+        -1.4064724821337284e-26,
+        -3.79505315806925e-27,
+        -9.289184916122923e-27,
+        -1.1484719374704361e-10,
+        -1.4064724821337284e-26,
+        1.7224320233339036e-42,
+        9.657134992556705e-42,
+        5.393482313322645e-43,
+        -1.4064724821337284e-26,
+        9.657134992556705e-42,
+        -4.369618647247604e-42,
+        -5.972325729801031e-43,
+        7.885649151478107e-26,
+        -3.795053158069252e-27,
+        4.647599702623563e-43,
+        -4.369618647247604e-42,
+        1.4553112375944508e-43,
+        -3.795053158069252e-27,
+        -4.369618647247604e-42,
+        3.2212646924877063e-42,
+        1.5143517677495184e-42,
+        -3.56806440051932e-26,
+        -9.289184916122924e-27,
+        1.1375970574217813e-42,
+        -5.9723257298010316e-43,
+        3.5621780864340323e-43,
+        -9.289184916122924e-27,
+        -5.9723257298010316e-43,
+        1.514351767749518e-42,
+        1.2810536060125642e-42,
+        -4.87677404943139e-27,
+        -1.148471937470436e-10,
+        1.4064724821337286e-26,
+        7.885649151478108e-26,
+        4.4041125303049e-27,
+        -1.148471937470436e-10,
+        7.885649151478108e-26,
+        -3.56806440051932e-26,
+        -4.876774049431393e-27,
+        6.439121187405548e-10
+      ],
+      "ML_half_mosaicity_deg": 0.5654095759355485,
+      "ML_domain_size_ang": 1494011.3427061057
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        11.592474758559918,
+        -40.58426961912671,
+        65.00018708625099
+      ],
+      "real_space_b": [
+        1.4978024921193052,
+        65.84720169761398,
+        40.84599550851713
+      ],
+      "real_space_c": [
+        -36.82221515389602,
+        -2.3326254991683033,
+        5.110642175634163
+      ],
+      "space_group_hall_symbol": "-P 4 2",
+      "B_covariance": [
+        2.2162204264998518e-11,
+        -2.714087251518026e-27,
+        -1.5218083537161814e-27,
+        -8.498670130124003e-28,
+        2.2162204264998518e-11,
+        -1.5218083537161814e-27,
+        -1.753660655134693e-27,
+        -2.348386489417154e-27,
+        -1.242650823711558e-11,
+        -2.7140872515180256e-27,
+        3.3237982651781883e-43,
+        1.8636777292942237e-43,
+        1.0407869171865581e-43,
+        -2.7140872515180256e-27,
+        1.8636777292942237e-43,
+        2.1476149081013534e-43,
+        2.8759439974256077e-43,
+        1.5218083537161807e-27,
+        -1.5218083537161812e-27,
+        1.8636777292942237e-43,
+        3.537871404561993e-42,
+        5.835767527838801e-44,
+        -1.5218083537161812e-27,
+        3.537871404561993e-42,
+        -2.0464138931903443e-42,
+        -6.638064725357158e-43,
+        2.8888912354363703e-26,
+        -8.498670130124003e-28,
+        1.0407869171865581e-43,
+        5.835767527838802e-44,
+        3.2590347565171114e-44,
+        -8.498670130124003e-28,
+        5.835767527838802e-44,
+        6.724865112675155e-44,
+        9.005495064007195e-44,
+        4.765265815337034e-28,
+        2.2162204264998518e-11,
+        -2.714087251518026e-27,
+        -1.5218083537161814e-27,
+        -8.498670130124003e-28,
+        2.2162204264998518e-11,
+        -1.5218083537161814e-27,
+        -1.753660655134693e-27,
+        -2.348386489417154e-27,
+        -1.242650823711558e-11,
+        -1.5218083537161812e-27,
+        1.8636777292942237e-43,
+        3.537871404561993e-42,
+        5.835767527838801e-44,
+        -1.5218083537161812e-27,
+        3.537871404561993e-42,
+        -2.0464138931903443e-42,
+        -6.638064725357158e-43,
+        2.8888912354363703e-26,
+        -1.753660655134693e-27,
+        2.147614908101353e-43,
+        -2.0464138931903443e-42,
+        6.724865112675154e-44,
+        -1.753660655134693e-27,
+        -2.0464138931903443e-42,
+        1.506271243289074e-42,
+        7.065284853111335e-43,
+        -1.671023755269795e-26,
+        -2.3483864894171544e-27,
+        2.875943997425608e-43,
+        -6.638064725357157e-43,
+        9.005495064007195e-44,
+        -2.3483864894171544e-27,
+        -6.638064725357157e-43,
+        7.065284853111335e-43,
+        4.471115507037887e-43,
+        -5.420391193590542e-27,
+        -1.242650823711558e-11,
+        1.5218083537161808e-27,
+        2.8888912354363703e-26,
+        4.765265815337034e-28,
+        -1.242650823711558e-11,
+        2.8888912354363703e-26,
+        -1.671023755269795e-26,
+        -5.420391193590541e-27,
+        2.358958711562982e-10
+      ],
+      "ML_half_mosaicity_deg": 0.6272708481107482,
+      "ML_domain_size_ang": 1722138.3958439424
+    }
+  ],
+  "profile": [],
+  "scaling_model": []
+}
