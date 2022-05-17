@@ -14,7 +14,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "insulin_1_###.img",
+      "template": "../insulin/insulin_1_###.img",
       "mask": "",
       "gain": "",
       "pedestal": "",
