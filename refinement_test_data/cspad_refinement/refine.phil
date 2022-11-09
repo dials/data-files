@@ -1,0 +1,31 @@
+output {
+  include_unused_reflections = False
+}
+refinement {
+  parameterisation {
+    auto_reduction {
+      min_nref_per_parameter = 3
+      action = fail fix *remove
+    }
+    beam {
+      fix = *all in_spindle_plane out_spindle_plane wavelength
+    }
+    detector {
+      hierarchy_level = 2
+      fix_list = "Group1Tau1,Tau2,Tau3"
+      constraints {
+        parameter = "Dist"
+      }
+    }
+  }
+  refinery {
+    engine = SimpleLBFGS LBFGScurvs GaussNewton LevMar *SparseLevMar
+  }
+  reflections {
+    outlier {
+      algorithm = null auto mcd tukey *sauter_poon
+      separate_experiments = False
+      separate_panels = True
+    }
+  }
+}
