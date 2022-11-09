@@ -1,0 +1,22 @@
+refinement {
+  mp.nproc = 1
+  refinery.engine = SparseLevMar
+  parameterisation {
+    beam.fix=all
+    detector.hierarchy_level=2
+    auto_reduction {
+      action=fix
+      min_nref_per_parameter=3
+    }
+  }
+  reflections {
+    weighting_strategy.override=stills
+    weighting_strategy.delpsi_constant=10000
+    outlier {
+      algorithm=tukey
+      separate_panels=True
+      separate_experiments=False
+    }
+  }
+}
+
