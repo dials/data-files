@@ -58,7 +58,7 @@
           ], 
           "mask": [], 
           "trusted_range": [
-            -1.0, 
+            0.0, 
             495976.0
           ], 
           "image_size": [
