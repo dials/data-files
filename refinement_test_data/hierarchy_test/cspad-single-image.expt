@@ -13,7 +13,7 @@
     {
       "__id__": "ImageSet",
       "images": [
-        "/home/fcx32934/phenix/lib/python3.7/site-packages/cbflib/idx-s00-20131106040304531.cbf"
+        "idx-s00-20131106040304531.cbf"
       ],
       "mask": null,
       "gain": null,
