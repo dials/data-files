@@ -65,3 +65,7 @@ dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P
 - Example mar345 file
 - Original source: Erskine, Peter, & Cooper, Jonathan. (2016). Atomic resolution X-ray diffraction images of native endothiapepsin. [Data set]. Zenodo. http://doi.org/10.5281/zenodo.196290
 
+`SACLA-MPCCD-run197287-0-nexus.h5`
+- Courtesy of Takanori Nakane (2024)
+- 3 images from CXI.DB entry 221, https://cxidb.org/id-221.html
+- Images reformatted as NeXus NXmx format by Takanori Nakane, including parameter data_scale_factor, which accounts for a gain of 10
