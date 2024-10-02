@@ -1,0 +1,410 @@
+{
+  "__id__": "ExperimentList", 
+  "experiment": [
+    {
+      "__id__": "Experiment", 
+      "identifier": "", 
+      "beam": 0, 
+      "detector": 0, 
+      "goniometer": 0, 
+      "scan": 0, 
+      "imageset": 0
+    }, 
+    {
+      "__id__": "Experiment", 
+      "identifier": "", 
+      "beam": 0, 
+      "detector": 0, 
+      "goniometer": 0, 
+      "scan": 1, 
+      "imageset": 1
+    }, 
+    {
+      "__id__": "Experiment", 
+      "identifier": "", 
+      "beam": 0, 
+      "detector": 0, 
+      "goniometer": 0, 
+      "scan": 2, 
+      "imageset": 2
+    }, 
+    {
+      "__id__": "Experiment", 
+      "identifier": "", 
+      "beam": 0, 
+      "detector": 0, 
+      "goniometer": 0, 
+      "scan": 3, 
+      "imageset": 3
+    }
+  ], 
+  "imageset": [
+    {
+      "__id__": "ImageSet", 
+      "images": [
+        "/Users/rjgildea/data/stills/cm23007-2/hewl/almond/almond0011_00001.cbf"
+      ], 
+      "mask": "", 
+      "gain": "", 
+      "pedestal": "", 
+      "dx": "", 
+      "dy": "", 
+      "params": {
+        "dynamic_shadowing": "Auto", 
+        "multi_panel": false
+      }
+    }, 
+    {
+      "__id__": "ImageSet", 
+      "images": [
+        "/Users/rjgildea/data/stills/cm23007-2/hewl/almond/almond0011_00005.cbf"
+      ], 
+      "mask": "", 
+      "gain": "", 
+      "pedestal": "", 
+      "dx": "", 
+      "dy": "", 
+      "params": {
+        "dynamic_shadowing": "Auto", 
+        "multi_panel": false
+      }
+    }, 
+    {
+      "__id__": "ImageSet", 
+      "images": [
+        "/Users/rjgildea/data/stills/cm23007-2/hewl/almond/almond0011_00011.cbf"
+      ], 
+      "mask": "", 
+      "gain": "", 
+      "pedestal": "", 
+      "dx": "", 
+      "dy": "", 
+      "params": {
+        "dynamic_shadowing": "Auto", 
+        "multi_panel": false
+      }
+    }, 
+    {
+      "__id__": "ImageSet", 
+      "images": [
+        "/Users/rjgildea/data/stills/cm23007-2/hewl/almond/almond0011_00013.cbf"
+      ], 
+      "mask": "", 
+      "gain": "", 
+      "pedestal": "", 
+      "dx": "", 
+      "dy": "", 
+      "params": {
+        "dynamic_shadowing": "Auto", 
+        "multi_panel": false
+      }
+    }
+  ], 
+  "profile": [], 
+  "crystal": [], 
+  "scan": [
+    {
+      "exposure_time": [
+        0.009
+      ], 
+      "batch_offset": 0, 
+      "oscillation": [
+        0.0, 
+        0.0
+      ], 
+      "valid_image_ranges": {}, 
+      "epochs": [
+        1556102561.997
+      ], 
+      "image_range": [
+        1, 
+        1
+      ]
+    }, 
+    {
+      "exposure_time": [
+        0.009
+      ], 
+      "batch_offset": 0, 
+      "oscillation": [
+        0.0, 
+        0.0
+      ], 
+      "valid_image_ranges": {}, 
+      "epochs": [
+        1556102562.084
+      ], 
+      "image_range": [
+        5, 
+        5
+      ]
+    }, 
+    {
+      "exposure_time": [
+        0.009
+      ], 
+      "batch_offset": 0, 
+      "oscillation": [
+        0.0, 
+        0.0
+      ], 
+      "valid_image_ranges": {}, 
+      "epochs": [
+        1556102562.216
+      ], 
+      "image_range": [
+        11, 
+        11
+      ]
+    }, 
+    {
+      "exposure_time": [
+        0.009
+      ], 
+      "batch_offset": 0, 
+      "oscillation": [
+        0.0, 
+        0.0
+      ], 
+      "valid_image_ranges": {}, 
+      "epochs": [
+        1556102562.26
+      ], 
+      "image_range": [
+        13, 
+        13
+      ]
+    }
+  ], 
+  "goniometer": [
+    {
+      "axes": [
+        [
+          0.0, 
+          1.0, 
+          0.0
+        ]
+      ], 
+      "scan_axis": 0, 
+      "names": [
+        "GON_OMEGA"
+      ], 
+      "angles": [
+        0.0
+      ]
+    }
+  ], 
+  "beam": [
+    {
+      "direction": [
+        0.0, 
+        0.0, 
+        1.0
+      ], 
+      "transmission": 1.0, 
+      "polarization_normal": [
+        0.0, 
+        1.0, 
+        0.0
+      ], 
+      "divergence": 0.0, 
+      "polarization_fraction": 0.999, 
+      "flux": 0.0, 
+      "sigma_divergence": 0.0, 
+      "wavelength": 0.96857
+    }
+  ], 
+  "scaling_model": [], 
+  "detector": [
+    {
+      "hierarchy": {
+        "origin": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "fast_axis": [
+          1.0, 
+          0.0, 
+          0.0
+        ], 
+        "name": "", 
+        "raw_image_offset": [
+          0, 
+          0
+        ], 
+        "slow_axis": [
+          0.0, 
+          1.0, 
+          0.0
+        ], 
+        "material": "", 
+        "mask": [], 
+        "thickness": 0.0, 
+        "mu": 0.0, 
+        "gain": 1.0, 
+        "trusted_range": [
+          0.0, 
+          0.0
+        ], 
+        "image_size": [
+          0, 
+          0
+        ], 
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        }, 
+        "pedestal": 0.0, 
+        "identifier": "", 
+        "type": "", 
+        "children": [
+          {
+            "panel": 0
+          }
+        ], 
+        "pixel_size": [
+          0.0, 
+          0.0
+        ]
+      }, 
+      "panels": [
+        {
+          "origin": [
+            -216.98, 
+            224.83, 
+            -289.3
+          ], 
+          "fast_axis": [
+            1.0, 
+            0.0, 
+            0.0
+          ], 
+          "name": "Panel", 
+          "raw_image_offset": [
+            0, 
+            0
+          ], 
+          "slow_axis": [
+            0.0, 
+            -1.0, 
+            0.0
+          ], 
+          "material": "Si", 
+          "mask": [
+            [
+              487, 
+              0, 
+              494, 
+              2527
+            ], 
+            [
+              981, 
+              0, 
+              988, 
+              2527
+            ], 
+            [
+              1475, 
+              0, 
+              1482, 
+              2527
+            ], 
+            [
+              1969, 
+              0, 
+              1976, 
+              2527
+            ], 
+            [
+              0, 
+              195, 
+              2463, 
+              212
+            ], 
+            [
+              0, 
+              407, 
+              2463, 
+              424
+            ], 
+            [
+              0, 
+              619, 
+              2463, 
+              636
+            ], 
+            [
+              0, 
+              831, 
+              2463, 
+              848
+            ], 
+            [
+              0, 
+              1043, 
+              2463, 
+              1060
+            ], 
+            [
+              0, 
+              1255, 
+              2463, 
+              1272
+            ], 
+            [
+              0, 
+              1467, 
+              2463, 
+              1484
+            ], 
+            [
+              0, 
+              1679, 
+              2463, 
+              1696
+            ], 
+            [
+              0, 
+              1891, 
+              2463, 
+              1908
+            ], 
+            [
+              0, 
+              2103, 
+              2463, 
+              2120
+            ], 
+            [
+              0, 
+              2315, 
+              2463, 
+              2332
+            ]
+          ], 
+          "thickness": 0.45, 
+          "mu": 3.83238282698181, 
+          "gain": 1.0, 
+          "trusted_range": [
+            -1.0, 
+            54896.0
+          ], 
+          "image_size": [
+            2463, 
+            2527
+          ], 
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }, 
+          "pedestal": 0.0, 
+          "identifier": "PILATUS3 6M, S/N 60-0119", 
+          "type": "SENSOR_PAD", 
+          "pixel_size": [
+            0.172, 
+            0.172
+          ]
+        }
+      ]
+    }
+  ]
+}
