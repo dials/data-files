@@ -1,0 +1,550 @@
+{
+  "__id__": "ExperimentList",
+  "experiment": [
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 1
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 2
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 3
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 4
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 5
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 6
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 7
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 8
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 9
+    }
+  ],
+  "imageset": [],
+  "beam": [
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        0.9736132921943776,
+        0.02863688285388751,
+        0.22640027871634424
+      ],
+      "wavelength": 0.47521720210360274,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.2276344619348609,
+        -0.1919322239596838,
+        -0.954643689103697
+      ],
+      "polarization_fraction": 0.13838762091626233,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    }
+  ],
+  "detector": [
+    {
+      "panels": [
+        {
+          "name": "Panel 0",
+          "type": "Pilatus",
+          "fast_axis": [
+            0.017289087882158195,
+            0.14838270009941978,
+            0.9887788740418197
+          ],
+          "slow_axis": [
+            0.9875079674705602,
+            -0.1574406811627933,
+            0.006359724613443994
+          ],
+          "origin": [
+            0.007912252424552957,
+            0.2797114130252585,
+            0.25893951197551157
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            1000,
+            1000
+          ],
+          "pixel_size": [
+            0.172,
+            0.172
+          ],
+          "trusted_range": [
+            0.0,
+            0.0
+          ],
+          "thickness": 10.0,
+          "material": "CdTe",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel 1",
+          "type": "Pilatus",
+          "fast_axis": [
+            0.4690590176596711,
+            0.7550776220564481,
+            0.4580845147150515
+          ],
+          "slow_axis": [
+            -0.025648381637432133,
+            -0.5068187904074176,
+            0.8616709779314509
+          ],
+          "origin": [
+            0.4792894166915158,
+            0.393974238135707,
+            0.9017174662483175
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            1000,
+            1000
+          ],
+          "pixel_size": [
+            0.172,
+            0.172
+          ],
+          "trusted_range": [
+            0.0,
+            0.0
+          ],
+          "thickness": 10.0,
+          "material": "CdTe",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel 2",
+          "type": "Pilatus",
+          "fast_axis": [
+            0.9637230470162083,
+            0.11862027169001,
+            0.23909646545690208
+          ],
+          "slow_axis": [
+            0.014901373677599358,
+            0.8705037588810451,
+            -0.4919361288180529
+          ],
+          "origin": [
+            0.8802636072667511,
+            0.7281690078580212,
+            0.5933926438895427
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            1000,
+            1000
+          ],
+          "pixel_size": [
+            0.172,
+            0.172
+          ],
+          "trusted_range": [
+            0.0,
+            0.0
+          ],
+          "thickness": 10.0,
+          "material": "CdTe",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "Panel 3",
+          "type": "Pilatus",
+          "fast_axis": [
+            0.6863806678563869,
+            0.7252663788437163,
+            0.05357479362483352
+          ],
+          "slow_axis": [
+            -0.5202707358924081,
+            0.4382308038120005,
+            0.7329884882890455
+          ],
+          "origin": [
+            0.3896118070505389,
+            0.2715982168306209,
+            0.044381269943731594
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            1000,
+            1000
+          ],
+          "pixel_size": [
+            0.172,
+            0.172
+          ],
+          "trusted_range": [
+            0.0,
+            0.0
+          ],
+          "thickness": 10.0,
+          "material": "CdTe",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "slow_axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "origin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          },
+          {
+            "panel": 1
+          },
+          {
+            "panel": 2
+          },
+          {
+            "panel": 3
+          }
+        ]
+      }
+    }
+  ],
+  "goniometer": [],
+  "scan": [],
+  "crystal": [
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.19430196511905343,
+        0.7063657893261871,
+        0.9573239780930343
+      ],
+      "real_space_b": [
+        0.9095695876918908,
+        0.02287815460995209,
+        0.5695692395175497
+      ],
+      "real_space_c": [
+        0.1907150934325982,
+        0.5208717341755427,
+        0.5335787973331799
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.16238509289838507,
+        0.08793014445107226,
+        0.4804220807902679
+      ],
+      "real_space_b": [
+        0.052615565492813904,
+        0.8410570725990564,
+        0.8886746114696108
+      ],
+      "real_space_c": [
+        0.014856980375721479,
+        0.8008642576555105,
+        0.83869349171409
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.0397445612260342,
+        0.587158191428237,
+        0.47488138046644873
+      ],
+      "real_space_b": [
+        0.1752185444665691,
+        0.818797910348349,
+        0.5663042326915371
+      ],
+      "real_space_c": [
+        0.8123419706566406,
+        0.9351171263143521,
+        0.9698794175997474
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.6626201376675543,
+        0.8728672431702901,
+        0.06344806497615574
+      ],
+      "real_space_b": [
+        0.33789907772907957,
+        0.4748392663421842,
+        0.5122117002343703
+      ],
+      "real_space_c": [
+        0.3675708802989627,
+        0.8169869024906186,
+        0.5823248792296198
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.8466246124470519,
+        0.4430728276062369,
+        0.9417710557883892
+      ],
+      "real_space_b": [
+        0.35585904409190333,
+        0.9932043537666638,
+        0.5663232969405801
+      ],
+      "real_space_c": [
+        0.3772271789777368,
+        0.6206285049416861,
+        0.10625672475150577
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.6868787845060514,
+        0.5998398261518639,
+        0.8051908041872391
+      ],
+      "real_space_b": [
+        0.0756952466500327,
+        0.419485337103184,
+        0.5862390733817873
+      ],
+      "real_space_c": [
+        0.06082995964744724,
+        0.7626184929929828,
+        0.900412366614643
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.6256938326954901,
+        0.764161258547956,
+        0.9444260316656303
+      ],
+      "real_space_b": [
+        0.4546584215100359,
+        0.5119030929454581,
+        0.8881907562554124
+      ],
+      "real_space_c": [
+        0.6767648461243139,
+        0.2766932460858644,
+        0.5894124174414842
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.7673955680059183,
+        0.8441806982082879,
+        0.1297942144560332
+      ],
+      "real_space_b": [
+        0.1671122642594608,
+        0.6874622204274242,
+        0.7159802946654955
+      ],
+      "real_space_c": [
+        0.7295423466215089,
+        0.48926578275772115,
+        0.3837345319069998
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.9604211934004482,
+        0.25474038064790616,
+        0.2867651526612216
+      ],
+      "real_space_b": [
+        0.024803024273356414,
+        0.08446131143430774,
+        0.6252659970110928
+      ],
+      "real_space_c": [
+        0.6627069501662208,
+        0.2189095191181443,
+        0.7400878971889899
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.17043675821644264,
+        0.37197115569468014,
+        0.6367444009604174
+      ],
+      "real_space_b": [
+        0.7773328122772518,
+        0.4528283168803228,
+        0.8083584135629822
+      ],
+      "real_space_c": [
+        0.4720514764233611,
+        0.6639105815172213,
+        0.8335080228952522
+      ],
+      "space_group_hall_symbol": " P 1",
+      "mosaicity": 0.0
+    }
+  ],
+  "profile": [],
+  "scaling_model": []
+}
