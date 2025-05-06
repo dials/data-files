@@ -1,0 +1,10 @@
+{
+  "__id__": "ExperimentList",
+  "experiment" : [
+    {
+      "__id__": "Experiment",
+      "imageset": "$DIALS_REGRESSION/experiment_test_data/imageset.json",
+      "crystal": "$DIALS_REGRESSION/experiment_test_data/crystal.json"
+    }
+  ]
+}
