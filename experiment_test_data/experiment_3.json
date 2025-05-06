@@ -3,8 +3,8 @@
   "experiment" : [
     {
       "__id__": "Experiment",
-      "imageset": "$DIALS_REGRESSION/experiment_test_data/imageset.json",
-      "crystal": "$DIALS_REGRESSION/experiment_test_data/crystal.json",
+      "imageset": "$DIALS_DATA/experiment_test_data/imageset.json",
+      "crystal": "$DIALS_DATA/experiment_test_data/crystal.json",
       "beam": "beam.json",
       "detector": "detector.json",
       "goniometer": "goniometer.json",
