@@ -1,0 +1,49 @@
+
+Experiment Test Data
+====================
+
+A number of ways of specifying experiments.
+
+
+experiment_1.json
+-----------------
+
+A list of experiments in a single file. The experiment list is at the top of the
+file and refers to a load of models later in the file by index.
+
+
+experiment_2.json
+-----------------
+
+A list of experiments which referencing models in separate files by filename.
+The models are loaded from the imageset.
+
+Uses: 
+  - imageset.json
+  - crystal.json
+
+
+experiment_3.json
+-----------------
+
+A list of experiments which reference models in separate files by filename. All
+the models are specified by file.
+
+Uses:
+  - imageset.json
+  - beam.json
+  - detector.json
+  - goniometer.json
+  - scan.json
+  - crystal.json
+
+
+experiment_4.json
+-----------------
+
+A list of experiments which reference models in the same file and externally.
+
+Uses:
+  - crystal.json
+  - beam.json
+

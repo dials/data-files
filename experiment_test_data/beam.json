@@ -1,0 +1,17 @@
+{
+  "__id__": "beam",
+  "direction": [
+    0.0, 
+    0.0, 
+    1.0
+  ], 
+  "polarization_normal": [
+    0.0, 
+    1.0, 
+    0.0
+  ], 
+  "divergence": 0.0, 
+  "polarization_fraction": 0.999, 
+  "sigma_divergence": 0.0, 
+  "wavelength": 0.9795
+}
