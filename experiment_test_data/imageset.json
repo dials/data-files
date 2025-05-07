@@ -1,4 +1,4 @@
 {
-  "__id__": "ImageSweep", 
-  "template": "$DIALS_REGRESSION/centroid_test_data/centroid_####.cbf" 
+  "__id__": "ImageSweep",
+  "template": "$DIALS_DATA/centroid_test_data/centroid_####.cbf"
 }
