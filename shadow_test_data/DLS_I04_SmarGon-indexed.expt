@@ -15,7 +15,7 @@
   "imageset": [
     {
       "__id__": "ImageSequence",
-      "template": "/home/fcx32934/sw/cctbx/modules/data-files/shadow_test_data/DLS_I04_SmarGon-Th_3_O45_C45_P48_1_0500.cbf.gz",
+      "template": "DLS_I04_SmarGon-Th_3_O45_C45_P48_1_0500.cbf.gz",
       "mask": null,
       "gain": null,
       "pedestal": null,
