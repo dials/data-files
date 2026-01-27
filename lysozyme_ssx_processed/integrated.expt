@@ -1,0 +1,3267 @@
+{
+  "__id__": "ExperimentList",
+  "experiment": [
+    {
+      "__id__": "Experiment",
+      "identifier": "d609363d-5bd0-56dc-a03d-e73c21f14411",
+      "beam": 0,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 0,
+      "crystal": 0,
+      "profile": 0,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "bc5fbfef-469b-a8cc-2d18-170ad1001226",
+      "beam": 1,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 1,
+      "crystal": 1,
+      "profile": 1,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "dbb0381d-36ce-e61e-36b6-f3268a84443e",
+      "beam": 2,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 2,
+      "crystal": 2,
+      "profile": 2,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "b77c4187-0ee7-65ec-a98a-cec2fd7dc47d",
+      "beam": 3,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 3,
+      "crystal": 3,
+      "profile": 3,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "fa983c58-9a27-2bb8-4c19-4f47f30c76ea",
+      "beam": 4,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 4,
+      "crystal": 4,
+      "profile": 4,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "9478c18d-66f4-a328-86d6-db7f1dee0d97",
+      "beam": 5,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 5,
+      "crystal": 5,
+      "profile": 5,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "3862e3e6-ef55-1bb4-ea62-3c9a2c0eb735",
+      "beam": 6,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 6,
+      "crystal": 6,
+      "profile": 6,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "21eb1750-c839-f076-d8da-c99a7af11f0e",
+      "beam": 7,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 7,
+      "crystal": 7,
+      "profile": 7,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "1fc4c51d-a077-aac1-a809-ed9b72fadfe5",
+      "beam": 8,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 8,
+      "crystal": 8,
+      "profile": 8,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "5e9cce66-322c-4b54-946e-b06c192efe36",
+      "beam": 9,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 9,
+      "crystal": 9,
+      "profile": 9,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "299aede0-9ba1-501d-69c3-51367a0b49a2",
+      "beam": 10,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 10,
+      "crystal": 10,
+      "profile": 10,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "e8ecba63-962c-1dda-8051-dd00944c7f3f",
+      "beam": 11,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 11,
+      "crystal": 11,
+      "profile": 11,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "1f2a8a76-cc52-b64e-db91-1ce32d883bcf",
+      "beam": 12,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 12,
+      "crystal": 12,
+      "profile": 12,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "57c8c4ad-1542-907b-5593-1b766e0ff97f",
+      "beam": 13,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 13,
+      "crystal": 13,
+      "profile": 13,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "6ebe6427-5d1e-b9d3-69ac-27ff1291fcb0",
+      "beam": 14,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 14,
+      "crystal": 14,
+      "profile": 14,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "dd4dd172-7676-1f77-f867-face816da3e5",
+      "beam": 15,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 15,
+      "crystal": 15,
+      "profile": 15,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "c342f560-78e6-8071-1e16-2d5c66f9a13f",
+      "beam": 16,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 16,
+      "crystal": 16,
+      "profile": 16,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "4a3c4e32-05bc-8ede-6dd2-94289ee8f13e",
+      "beam": 17,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 17,
+      "crystal": 17,
+      "profile": 17,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "8646f295-9b51-a33c-9a6b-f36d1652464c",
+      "beam": 18,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 18,
+      "crystal": 18,
+      "profile": 18,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "51546b4a-d88d-2155-c0cc-3bb093698876",
+      "beam": 19,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 19,
+      "crystal": 19,
+      "profile": 19,
+      "imageset": 0
+    },
+    {
+      "__id__": "Experiment",
+      "identifier": "895110fc-77f3-25de-a376-fc4752eab6b2",
+      "beam": 20,
+      "detector": 0,
+      "goniometer": 0,
+      "scan": 20,
+      "crystal": 20,
+      "profile": 20,
+      "imageset": 0
+    }
+  ],
+  "history": [
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:12Z|xia2.Modules.SSX.data_integration_standard|v3.9.dev234+g063978a4.add.dataset.count.to.summary",
+    "2026-01-27T14:07:16Z|xia2.Modules.SSX.data_integration_programs|v3.9.dev234+g063978a4.add.dataset.count.to.summary"
+  ],
+  "imageset": [
+    {
+      "__id__": "ImageSequence",
+      "template": "/Users/whi10850/Documents/data/ssx/i24_eating/lysozyme_25keV.nxs",
+      "single_file_indices": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814,
+        815,
+        816,
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832,
+        833,
+        834,
+        835,
+        836,
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854,
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        870,
+        871,
+        872,
+        873,
+        874,
+        875,
+        876,
+        877,
+        878,
+        879,
+        880,
+        881,
+        882,
+        883,
+        884,
+        885,
+        886,
+        887,
+        888,
+        889,
+        890,
+        891,
+        892,
+        893,
+        894,
+        895,
+        896,
+        897,
+        898,
+        899,
+        900,
+        901,
+        902,
+        903,
+        904,
+        905,
+        906,
+        907,
+        908,
+        909,
+        910,
+        911,
+        912,
+        913,
+        914,
+        915,
+        916,
+        917,
+        918,
+        919,
+        920,
+        921,
+        922,
+        923,
+        924,
+        925,
+        926,
+        927,
+        928,
+        929,
+        930,
+        931,
+        932,
+        933,
+        934,
+        935,
+        936,
+        937,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946,
+        947,
+        948,
+        949,
+        950,
+        951,
+        952,
+        953,
+        954,
+        955,
+        956,
+        957,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963,
+        964,
+        965,
+        966,
+        967,
+        968,
+        969,
+        970,
+        971,
+        972
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {
+        "dynamic_shadowing": "Auto",
+        "multi_panel": false
+      }
+    }
+  ],
+  "beam": [
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    },
+    {
+      "__id__": "monochromatic",
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 0.49590000000000006,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0,
+      "probe": "x-ray",
+      "sample_to_source_distance": 0.0
+    }
+  ],
+  "detector": [
+    {
+      "panels": [
+        {
+          "name": "/entry/instrument/detector/module",
+          "type": "SENSOR_PAD",
+          "fast_axis": [
+            0.9999994766591552,
+            0.0,
+            -0.0010230744917976153
+          ],
+          "slow_axis": [
+            -4.665653548010454e-06,
+            -0.999989601212038,
+            -0.004560421693327043
+          ],
+          "origin": [
+            -119.8475477759688,
+            126.93405226066231,
+            -421.2263703313435
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            3108,
+            3262
+          ],
+          "pixel_size": [
+            0.075,
+            0.075
+          ],
+          "trusted_range": [
+            -1.0,
+            50649.0
+          ],
+          "thickness": 0.75,
+          "material": "CdTe",
+          "mu": 7.285849919020163,
+          "identifier": "",
+          "mask": [],
+          "gain": 1.0,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "ParallaxCorrectedPxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "",
+        "type": "",
+        "fast_axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "slow_axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "origin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "panel": 0
+          }
+        ]
+      }
+    }
+  ],
+  "goniometer": [
+    {
+      "rotation_axis": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "fixed_rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "setting_rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "scan": [
+    {
+      "image_range": [
+        99,
+        99
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        133,
+        133
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        247,
+        247
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        414,
+        414
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        472,
+        472
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        565,
+        565
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        602,
+        602
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        633,
+        633
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        763,
+        763
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        811,
+        811
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        819,
+        819
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        823,
+        823
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        847,
+        847
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        859,
+        859
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        878,
+        878
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        884,
+        884
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        920,
+        920
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        929,
+        929
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        933,
+        933
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        971,
+        971
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    },
+    {
+      "image_range": [
+        973,
+        973
+      ],
+      "batch_offset": 0,
+      "properties": {
+        "epochs": [
+          0.0
+        ],
+        "exposure_time": [
+          0.0
+        ],
+        "oscillation": [
+          0.0
+        ],
+        "oscillation_width": [
+          0.0
+        ]
+      },
+      "valid_image_ranges": {}
+    }
+  ],
+  "crystal": [
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        29.056256934025257,
+        -3.716359620888312,
+        -73.89468324311967
+      ],
+      "real_space_b": [
+        -58.53151907700892,
+        -49.7162037134217,
+        -20.51492067525852
+      ],
+      "real_space_c": [
+        -21.785961424198838,
+        29.80225268811199,
+        -10.065330123289304
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.09218935021822786,
+      "ML_domain_size_ang": 56259412.77479421
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        27.282627713227487,
+        -22.258468807310656,
+        -71.3253995808549
+      ],
+      "real_space_b": [
+        29.173595552257122,
+        73.07778093440247,
+        -11.6461620377707
+      ],
+      "real_space_c": [
+        33.117642690294716,
+        -10.67143807551103,
+        15.998034283683047
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.040683940010345275,
+      "ML_domain_size_ang": 8072379.276538708
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -37.34519002267133,
+        -66.81389688365093,
+        -20.900136288538448
+      ],
+      "real_space_b": [
+        -64.44718854791334,
+        42.06265697558937,
+        -19.309803414630235
+      ],
+      "real_space_c": [
+        13.310362500800116,
+        3.8399776428378347,
+        -36.05918529538039
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.1004033074418757,
+      "ML_domain_size_ang": 1573665598.6487188
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        1.0898962650959774,
+        -24.51541741793331,
+        75.81154623279193
+      ],
+      "real_space_b": [
+        20.18228657133254,
+        73.43093117743291,
+        23.455442064021103
+      ],
+      "real_space_c": [
+        -36.979510631216215,
+        9.058251633786488,
+        3.4608270565454413
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.03297408739547633,
+      "ML_domain_size_ang": 8046.201181512845
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        55.970795520293606,
+        24.26236016044978,
+        -50.98984334755843
+      ],
+      "real_space_b": [
+        2.67465597069531,
+        -72.85232093764765,
+        -31.729193903641075
+      ],
+      "real_space_c": [
+        -27.118487614670123,
+        9.914368818169342,
+        -25.050034560098734
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.0011440152855755814,
+      "ML_domain_size_ang": 981.9562079227078
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -50.640677701626046,
+        53.87497151549486,
+        28.943077800911652
+      ],
+      "real_space_b": [
+        -43.133050852787854,
+        -58.102793944931356,
+        32.684825322902306
+      ],
+      "real_space_c": [
+        21.00434810948684,
+        2.4819021843836144,
+        32.130722926366765
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.016712566624903818,
+      "ML_domain_size_ang": 3356.0312394583048
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        59.33125478611887,
+        12.148402140292754,
+        51.68218864831319
+      ],
+      "real_space_b": [
+        -53.05257630442414,
+        10.626371312602583,
+        58.40663038326561
+      ],
+      "real_space_c": [
+        0.9680742635927196,
+        -37.47381161541038,
+        7.697233473518126
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.058126694229514005,
+      "ML_domain_size_ang": 3751423.010513664
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        68.59512485104865,
+        -9.813464999196528,
+        39.046158038092656
+      ],
+      "real_space_b": [
+        -3.0093931621256305,
+        75.67282566505385,
+        24.30565191101105
+      ],
+      "real_space_c": [
+        -19.31671758782275,
+        -10.796378513253018,
+        31.221580643144197
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.07497845751598797,
+      "ML_domain_size_ang": 20069.004784388057
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -2.6754309204444913,
+        14.058566364165104,
+        78.28828509473615
+      ],
+      "real_space_b": [
+        -60.66210141035747,
+        50.305168077164446,
+        -11.106588995192691
+      ],
+      "real_space_c": [
+        -24.71539748849006,
+        -28.846647103309778,
+        4.335491109851507
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.03931061523424126,
+      "ML_domain_size_ang": 146435001.5057595
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -18.77673426783811,
+        32.68522132001135,
+        70.01418074503029
+      ],
+      "real_space_b": [
+        31.684081439221014,
+        -62.45862786541925,
+        37.655195344371556
+      ],
+      "real_space_c": [
+        33.86676377682936,
+        17.679749439776753,
+        0.8289849286259044
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.04351925803917723,
+      "ML_domain_size_ang": 5868.138018452885
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        53.48262409906637,
+        -58.6977899573789,
+        2.8587148584348725
+      ],
+      "real_space_b": [
+        -57.173395653966736,
+        -52.864545031531925,
+        -15.82834751477727
+      ],
+      "real_space_c": [
+        6.587661471022979,
+        4.165866323356194,
+        -37.708649181878485
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.09171845733361711,
+      "ML_domain_size_ang": 2475626.1479143514
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        78.72516465418916,
+        -4.477306965773278,
+        9.76898377067711
+      ],
+      "real_space_b": [
+        3.2207604422748597,
+        78.74056404355262,
+        10.133170662895486
+      ],
+      "real_space_c": [
+        -4.959238136828778,
+        -4.665108022248166,
+        37.826833057730695
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.057392508278036956,
+      "ML_domain_size_ang": 6388145.9199007675
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        27.22851149831472,
+        -22.598241558617186,
+        71.22838522114705
+      ],
+      "real_space_b": [
+        10.885536855835275,
+        76.20028193101396,
+        20.0144283496139
+      ],
+      "real_space_c": [
+        -35.49712809115675,
+        1.390904814945853,
+        14.010790224739157
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.00038381166641499503,
+      "ML_domain_size_ang": 4387.189630029769
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        13.528477729207346,
+        7.632680588842043,
+        -78.10585800102143
+      ],
+      "real_space_b": [
+        -74.55239646763431,
+        -23.503299329041,
+        -15.209788897247703
+      ],
+      "real_space_c": [
+        -11.77657119065017,
+        36.374933761074004,
+        1.5148565394145235
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.04966280947694746,
+      "ML_domain_size_ang": 16009.497217345935
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -57.05795908177988,
+        -54.91750384748448,
+        7.29766333803131
+      ],
+      "real_space_b": [
+        45.387133316071385,
+        -40.33069973993878,
+        51.363816071704136
+      ],
+      "real_space_c": [
+        -15.26356296133531,
+        19.70697618277461,
+        28.96135100509927
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.13722486872055484,
+      "ML_domain_size_ang": 26472428.17733721
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        57.69455102469008,
+        13.996469015964037,
+        52.93656278889701
+      ],
+      "real_space_b": [
+        -10.417905723883417,
+        78.30017628758934,
+        -9.348351534840454
+      ],
+      "real_space_c": [
+        -25.863254955107447,
+        -0.0734271060329385,
+        28.207282910323784
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.07373235355832056,
+      "ML_domain_size_ang": 17356.036938548958
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        37.25268362808633,
+        5.987768700431003,
+        69.97163980417727
+      ],
+      "real_space_b": [
+        -42.286639957169456,
+        -61.325401419130415,
+        27.761149297262826
+      ],
+      "real_space_c": [
+        26.961263285710093,
+        -24.153253101677414,
+        -12.287196939594358
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.15929148923099767,
+      "ML_domain_size_ang": 97445.14718196122
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        3.745821994791153,
+        -14.926743297518575,
+        -78.26811612382531
+      ],
+      "real_space_b": [
+        -78.63119519154881,
+        11.971393753077583,
+        -6.0462983565650354
+      ],
+      "real_space_c": [
+        6.17208123281447,
+        37.11410642790119,
+        -6.7827520070966685
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.053482138394477796,
+      "ML_domain_size_ang": 76506.2134178832
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        20.331774047128537,
+        49.1440431757503,
+        59.207286103805
+      ],
+      "real_space_b": [
+        25.760609218881513,
+        -62.05284901600813,
+        42.659766584099906
+      ],
+      "real_space_c": [
+        34.82136424036691,
+        3.969848217406786,
+        -15.252759607356477
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.059186629370282136,
+      "ML_domain_size_ang": 309909.30057838536
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -1.0119285282651822,
+        -60.20669934878482,
+        51.95674993009924
+      ],
+      "real_space_b": [
+        51.69094028105631,
+        38.98940774313915,
+        46.18709003411738
+      ],
+      "real_space_c": [
+        -29.027339810728026,
+        16.501535746356186,
+        18.556384098641168
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.08183141708688538,
+      "ML_domain_size_ang": 1322794.453543662
+    },
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        0.6669061119381243,
+        64.19166112785842,
+        46.94637576327306
+      ],
+      "real_space_b": [
+        -64.0937673991397,
+        -27.35938993502559,
+        38.320087191844735
+      ],
+      "real_space_c": [
+        22.695746212946812,
+        -18.39373800046341,
+        24.828086210816917
+      ],
+      "space_group_hall_symbol": " P 4nw 2abw",
+      "ML_half_mosaicity_deg": 0.06591533521443724,
+      "ML_domain_size_ang": 53710182.477927
+    }
+  ],
+  "profile": [
+    {
+      "parameters": [
+        0.0004949904834895651,
+        -1.207405541903599e-06,
+        0.0004910463953950546,
+        7.6396923970849e-06,
+        -2.1557885803893225e-05,
+        0.00012475180986123652
+      ],
+      "sigma": [
+        [
+          2.450155787452334e-07,
+          -5.976542529548428e-10,
+          3.781575033344609e-09
+        ],
+        [
+          -5.976542529548428e-10,
+          2.4112802025861886e-07,
+          -1.0595146323278666e-08
+        ],
+        [
+          3.781575033344609e-09,
+          -1.0595146323278666e-08,
+          1.6086121403909886e-08
+        ]
+      ],
+      "n_obs": 16,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0006009637507284146,
+        -0.00011078150413885823,
+        0.0005930380895312165,
+        7.859547185970117e-06,
+        4.1970071079196047e-07,
+        7.296073974657466e-05
+      ],
+      "sigma": [
+        [
+          3.6115742968956405e-07,
+          -6.657566823862362e-08,
+          4.723302955907558e-09
+        ],
+        [
+          -6.657566823862362e-08,
+          3.6396671729410297e-07,
+          -6.217939514091423e-10
+        ],
+        [
+          4.723302955907558e-09,
+          -6.217939514091423e-10,
+          5.3852181750225295e-09
+        ]
+      ],
+      "n_obs": 8,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.00038478069677967577,
+        1.2954007277495127e-06,
+        0.0004382322372363456,
+        2.3250042973951806e-05,
+        -1.8199835514292893e-06,
+        3.4336612883137136e-05
+      ],
+      "sigma": [
+        [
+          1.480561846142528e-07,
+          4.984451946323565e-10,
+          8.946167735674581e-09
+        ],
+        [
+          4.984451946323565e-10,
+          1.920491718162181e-07,
+          -7.674573408875425e-10
+        ],
+        [
+          8.946167735674581e-09,
+          -7.674573408875425e-10,
+          1.722879822704498e-09
+        ]
+      ],
+      "n_obs": 7,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0006517325412562528,
+        -5.438738011554269e-05,
+        0.0006724869978019796,
+        -1.2597241633629314e-05,
+        1.6677474402033083e-06,
+        9.236837822503951e-05
+      ],
+      "sigma": [
+        [
+          4.2475530533233334e-07,
+          -3.5446025454972435e-08,
+          -8.210032302704302e-09
+        ],
+        [
+          -3.5446025454972435e-08,
+          4.551967493285523e-07,
+          1.8066694382897968e-09
+        ],
+        [
+          -8.210032302704302e-09,
+          1.8066694382897968e-09,
+          8.693389174224302e-09
+        ]
+      ],
+      "n_obs": 18,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0005410777308616843,
+        1.6496447889228807e-05,
+        0.0005313075347935636,
+        7.527448186853463e-05,
+        2.6034918931483738e-05,
+        0.00014655024221033505
+      ],
+      "sigma": [
+        [
+          2.9276511083442925e-07,
+          8.925860591181944e-09,
+          4.072934584121571e-08
+        ],
+        [
+          8.925860591181944e-09,
+          2.825598293213758e-07,
+          1.5074310163569883e-08
+        ],
+        [
+          4.072934584121571e-08,
+          1.5074310163569883e-08,
+          2.7821038116253148e-08
+        ]
+      ],
+      "n_obs": 11,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0006893259363769735,
+        -7.771641339344206e-05,
+        0.0006235678900407102,
+        -4.63993555662742e-06,
+        -7.398956133729135e-06,
+        8.961630567370693e-05
+      ],
+      "sigma": [
+        [
+          4.7517024656199136e-07,
+          -5.357193943429442e-08,
+          -3.1984279223010104e-09
+        ],
+        [
+          -5.357193943429442e-08,
+          3.948767544005636e-07,
+          -4.2531523149754605e-09
+        ],
+        [
+          -3.1984279223010104e-09,
+          -4.2531523149754605e-09,
+          8.10735579644178e-09
+        ]
+      ],
+      "n_obs": 11,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.00045788281731795074,
+        -1.446851417779944e-05,
+        0.0004410005724201276,
+        -1.372468823823002e-05,
+        4.6609937351010415e-06,
+        5.891535775915138e-05
+      ],
+      "sigma": [
+        [
+          2.0965667439502384e-07,
+          -6.624884034135521e-09,
+          -6.284298917331304e-09
+        ],
+        [
+          -6.624884034135521e-09,
+          1.946908427773934e-07,
+          2.2540767515868963e-09
+        ],
+        [
+          -6.284298917331304e-09,
+          2.2540767515868963e-09,
+          3.6811113097240593e-09
+        ]
+      ],
+      "n_obs": 14,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.000544859709754096,
+        -9.557424204017487e-06,
+        0.0005581148424187312,
+        1.6612702507546385e-06,
+        7.318251661898334e-06,
+        0.00011682795738976223
+      ],
+      "sigma": [
+        [
+          2.968721033133177e-07,
+          -5.20745537779774e-09,
+          9.051592266492865e-10
+        ],
+        [
+          -5.20745537779774e-09,
+          3.115835216855007e-07,
+          4.06854740855703e-09
+        ],
+        [
+          9.051592266492865e-10,
+          4.06854740855703e-09,
+          1.370508825409702e-08
+        ]
+      ],
+      "n_obs": 15,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0005532840325766883,
+        -1.415772520317694e-05,
+        0.000474126003391219,
+        7.852047366517786e-06,
+        7.780397281059984e-07,
+        7.16998197422469e-05
+      ],
+      "sigma": [
+        [
+          3.061232207043219e-07,
+          -7.833243292526352e-09,
+          4.344412430930127e-09
+        ],
+        [
+          -7.833243292526352e-09,
+          2.249959082746589e-07,
+          2.5772173786899974e-10
+        ],
+        [
+          4.344412430930127e-09,
+          2.5772173786899974e-10,
+          5.203124144735248e-09
+        ]
+      ],
+      "n_obs": 12,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0005038772230556417,
+        -3.6512554408046913e-06,
+        0.0005121170803483888,
+        8.245601838368555e-06,
+        -1.218647894444013e-05,
+        0.00013628855021009873
+      ],
+      "sigma": [
+        [
+          2.538922559142649e-07,
+          -1.8397844521794708e-09,
+          4.154770956739641e-09
+        ],
+        [
+          -1.8397844521794708e-09,
+          2.6227723565085214e-07,
+          -6.271010815328847e-09
+        ],
+        [
+          4.154770956739641e-09,
+          -6.271010815328847e-09,
+          1.8791069137110793e-08
+        ]
+      ],
+      "n_obs": 19,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.000523114051296372,
+        3.0544059969474445e-05,
+        0.0005260545949222376,
+        -4.456773386779262e-06,
+        1.190050695576841e-05,
+        7.768714700178404e-05
+      ],
+      "sigma": [
+        [
+          2.736483106637033e-07,
+          1.5978026953671117e-08,
+          -2.331400782067952e-09
+        ],
+        [
+          1.5978026953671117e-08,
+          2.776663764382184e-07,
+          6.124188412389879e-09
+        ],
+        [
+          -2.331400782067952e-09,
+          6.124188412389879e-09,
+          6.196777704102199e-09
+        ]
+      ],
+      "n_obs": 13,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.00044617193986084554,
+        3.372877797689769e-07,
+        0.00046105021797174803,
+        1.4994947469992949e-05,
+        7.049129641095498e-06,
+        6.18089133285217e-05
+      ],
+      "sigma": [
+        [
+          1.9906939991918998e-07,
+          1.5048834299088209e-10,
+          6.690324800798232e-09
+        ],
+        [
+          1.5048834299088209e-10,
+          2.1256741725484276e-07,
+          3.2550603700780957e-09
+        ],
+        [
+          6.690324800798232e-09,
+          3.2550603700780957e-09,
+          4.094880445177527e-09
+        ]
+      ],
+      "n_obs": 11,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0007304444631090701,
+        -0.00012154844125346563,
+        0.0006683447323088043,
+        -4.675666814957262e-06,
+        7.809812290014964e-06,
+        0.00010406878376427082
+      ],
+      "sigma": [
+        [
+          5.335491136866977e-07,
+          -8.878438591313205e-08,
+          -3.415314936328353e-09
+        ],
+        [
+          -8.878438591313205e-08,
+          4.614587047760744e-07,
+          5.7879669175306725e-09
+        ],
+        [
+          -3.415314936328353e-09,
+          5.7879669175306725e-09,
+          1.0913166782344318e-08
+        ]
+      ],
+      "n_obs": 8,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0006455046938183755,
+        -4.456098032498724e-05,
+        0.0005891854570047089,
+        2.8447710216094865e-05,
+        2.4606651081171955e-05,
+        8.266108665688655e-05
+      ],
+      "sigma": [
+        [
+          4.1667630974155464e-07,
+          -2.876432196092754e-08,
+          1.8363130472874187e-08
+        ],
+        [
+          -2.876432196092754e-08,
+          3.4912518371337157e-07,
+          1.3230223107385371e-08
+        ],
+        [
+          1.8363130472874187e-08,
+          1.3230223107385371e-08,
+          8.247614741266757e-09
+        ]
+      ],
+      "n_obs": 12,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.00046910466151384113,
+        -4.928616684291026e-05,
+        0.0004716312886814024,
+        -9.112235310867214e-06,
+        1.8357267941340587e-05,
+        0.000234371145397297
+      ],
+      "sigma": [
+        [
+          2.2005918345401546e-07,
+          -2.3120370614158116e-08,
+          -4.274592061138835e-09
+        ],
+        [
+          -2.3120370614158116e-08,
+          2.248651987053475e-07,
+          9.106969085687516e-09
+        ],
+        [
+          -4.274592061138835e-09,
+          9.106969085687516e-09,
+          5.5349855913471716e-08
+        ]
+      ],
+      "n_obs": 22,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0004841041536542789,
+        -2.199388220339483e-05,
+        0.00048265419355481844,
+        -2.0071487821575528e-05,
+        -3.448406004069397e-05,
+        0.00016702211774091206
+      ],
+      "sigma": [
+        [
+          2.3435683158532566e-07,
+          -1.064732972964636e-08,
+          -9.716690624445987e-09
+        ],
+        [
+          -1.064732972964636e-08,
+          2.3343880141042896e-07,
+          -1.6202426250642484e-08
+        ],
+        [
+          -9.716690624445987e-09,
+          -1.6202426250642484e-08,
+          2.9488402834920933e-08
+        ]
+      ],
+      "n_obs": 13,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0004901708420808313,
+        -6.123986896868709e-05,
+        0.00048214867073070595,
+        1.2800445161077135e-05,
+        7.560940313945279e-07,
+        0.0002129904352379143
+      ],
+      "sigma": [
+        [
+          2.402674544262313e-07,
+          -3.001799814130112e-08,
+          6.274404983614682e-09
+        ],
+        [
+          -3.001799814130112e-08,
+          2.3621766223868867e-07,
+          -4.1934785222093615e-10
+        ],
+        [
+          6.274404983614682e-09,
+          -4.1934785222093615e-10,
+          4.552934857734222e-08
+        ]
+      ],
+      "n_obs": 10,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0006550508084867197,
+        -4.289529603965653e-05,
+        0.0005810474981211061,
+        1.8953945082527183e-06,
+        -4.391627013852992e-06,
+        6.256229938267073e-05
+      ],
+      "sigma": [
+        [
+          4.290915616991052e-07,
+          -2.8098598351054198e-08,
+          1.2415797050322317e-09
+        ],
+        [
+          -2.8098598351054198e-08,
+          3.394562014951266e-07,
+          -2.633047397623785e-09
+        ],
+        [
+          1.2415797050322317e-09,
+          -2.633047397623785e-09,
+          3.93692021221764e-09
+        ]
+      ],
+      "n_obs": 8,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0005681438101036464,
+        -5.319792589838467e-05,
+        0.0005358395172387938,
+        -1.544551297978931e-05,
+        9.072593115350081e-06,
+        0.0001099825048402966
+      ],
+      "sigma": [
+        [
+          3.227873889590882e-07,
+          -3.022407230951971e-08,
+          -8.775272593342824e-09
+        ],
+        [
+          -3.022407230951971e-08,
+          2.899540075545936e-07,
+          5.683123169994562e-09
+        ],
+        [
+          -8.775272593342824e-09,
+          5.683123169994562e-09,
+          1.2417027187991404e-08
+        ]
+      ],
+      "n_obs": 26,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.000536432018464448,
+        7.345555402411155e-05,
+        0.0004948749407476628,
+        -5.936590096977094e-05,
+        -1.0103246333915298e-05,
+        0.00010845727870136062
+      ],
+      "sigma": [
+        [
+          2.877593104338418e-07,
+          3.940391111257846e-08,
+          -3.1845770085174753e-08
+        ],
+        [
+          3.940391111257846e-08,
+          2.5029692539699193e-07,
+          -9.36059857673044e-09
+        ],
+        [
+          -3.1845770085174753e-08,
+          -9.36059857673044e-09,
+          1.5389367087741037e-08
+        ]
+      ],
+      "n_obs": 11,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    },
+    {
+      "parameters": [
+        0.0005184079042345922,
+        -2.3714950810507588e-05,
+        0.0005441622402816516,
+        -4.17204063941614e-06,
+        5.245322903914937e-06,
+        6.74262397578528e-05
+      ],
+      "sigma": [
+        [
+          2.687467551729021e-07,
+          -1.2294017948701681e-08,
+          -2.1628188442612693e-09
+        ],
+        [
+          -1.2294017948701681e-08,
+          2.9667494264029074e-07,
+          2.953246400938203e-09
+        ],
+        [
+          -2.1628188442612693e-09,
+          2.953246400938203e-09,
+          4.591217143346724e-09
+        ]
+      ],
+      "n_obs": 10,
+      "parameterisation": "simple6",
+      "__id__": "ellipsoid"
+    }
+  ],
+  "scaling_model": []
+}
