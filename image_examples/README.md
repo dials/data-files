@@ -16,10 +16,20 @@ dls/i03/data/2017/cm16791-5/20171123/SmarGon/rotation_calibration4/th1_O45_C45_P
 - Original file: https://zenodo.org/record/2616448/files/Therm_6_2_master.h5
 - For testing FormatCBFMiniEigerDLS16MSN160
 
+`EosS2-pre_SHR248e_CHCl3_pentane_1_1.img.bz2`
+- A small molecule collected on RIGAKU Supernova, Eos S2 CCD with RIGAKU CrysAlisPro
+- For testing FormatROD, TY5 compression, gain 100, bin 4
+- Based on XRDa-0504 (https://doi.org/10.51093/xrd-00504) by Hirota et al.
+
 `Gatan_float32_zero_array_001.dm4.gz`
 - DM4 format float32 image with the data array zero-filled to aid compression
 - For testing FormatGatanDM4
 - Based on an image provided by Sam Morris at NTU
+
+`Hypix6000-monoclinic_lysozyme1_1_1.rodhypix.bz2`
+- Monoclinic lysozyme collected on HyPix 6000 with RIGAKU CrysAlisPro
+- For testing FormatROD, TY6 compression
+- Based on XRDa-0093 (https://doi.org/10.51093/xrd-00093) by Ohnishi, Nakane an Kurisu
 
 `SACLA-MPCCD-run266702-0-subset.h5`
 - This file contains first four images from run 266702-0 in CXIDB #33.
